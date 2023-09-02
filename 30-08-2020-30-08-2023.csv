@@ -1,0 +1,1101 @@
+CODIGO DA TRANSACAO;DATA;TIPO;DESCRICAO;VALOR
+dba375e6-aecd-45ab-94ea-0e953a2777b3;30/08/2020;Vendas;Plano de Recebimento;72,61 
+0fc0fa62-d1f6-4836-b6a6-1d06bc5a350a;31/08/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,26 
+62508e07-84c5-40c6-8eab-afcf64e23634;02/09/2020;Vendas;Plano de Recebimento;39,04 
+610187cf-4a63-484c-8528-0362b211b9ac;02/09/2020;Vendas;Plano de Recebimento;9,20 
+221cb258-7aba-4d9a-8f38-694f5e10acc3;03/09/2020;Vendas;Plano de Recebimento;146,41 
+c2b0e7b9-77eb-4c03-ae95-314f1090964f;03/09/2020;Vendas;Plano de Recebimento;22,45 
+6e4eae09-2193-4fa7-8fff-e6a341cc8b7c;03/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,03 
+8e7edf46-e64a-4c3e-873a-54c8dae97e7a;05/09/2020;Vendas;Plano de Recebimento;53,25 
+a964e165-1302-4c91-b583-23b824ab84c0;05/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,02 
+fd3ca5c1-b4bb-491c-bf94-1c6be7ac99c1;07/09/2020;Vendas;Plano de Recebimento;39,69 
+4e6c9cf6-e75e-4867-a4e1-8f41f122d693;08/09/2020;Vendas;Plano de Recebimento;68,33 
+77fb98dc-019d-4f81-9b0a-a5b97c5a9e9c;08/09/2020;Vendas;Plano de Recebimento;472,43 
+ad768593-2bc7-4865-9182-fafeda96878d;10/09/2020;Vendas;Plano de Recebimento;36,12 
+169c6ef7-487b-4076-bd5a-f18166b594cc;11/09/2020;Vendas;Plano de Recebimento;48,80 
+5a8e3760-0dc5-41a4-a46d-b3b69cea7649;11/09/2020;Pagamento de conta;Pagamento De Contas E Títulos;-602,80 
+e1f69c13-e43b-4a29-ad19-171e035a505f;11/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,52 
+214ccb6e-3b26-412e-ada2-f7e365c40691;12/09/2020;Vendas;Plano de Recebimento;26,35 
+90284081-8c91-4f40-a499-0652bd2afc19;12/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,74 
+187f2cf7-e65b-4b45-b5b9-9f365d56694e;13/09/2020;Vendas;Plano de Recebimento;106,49 
+201bff94-30f3-4956-8d78-181ab4937081;13/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,09 
+c4c94374-5309-4503-a515-77f56e83cb4b;14/09/2020;Vendas;Plano de Recebimento;64,42 
+8e7a08f7-7257-4a3c-9a83-102821bea69b;14/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,33 
+d4aa0f0d-d4c2-460f-9e11-859a502f7e4f;15/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,25 
+7ebf1a5d-895e-47dc-aae6-88c56ac34598;16/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,36 
+c6282159-74e8-45b2-b285-1aa0ed0cf67d;17/09/2020;Pagamento de conta;Pagamento De Contas E Títulos;-348,37 
+e144e28c-61fd-4edb-8360-21beb0e0a4f3;17/09/2020;Pagamento de conta;Pagamento De Contas E Títulos;-344,75 
+d44dee35-993e-4916-a903-533b9b6b6d7d;17/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,02 
+e1b33ef5-818c-4094-873f-9139f0f33023;18/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,11 
+1e7c1364-b872-481f-a6a3-9f535af3bdd5;19/09/2020;Pagamento de conta;Pagamento De Contas E Títulos;-135,06 
+ffd6407c-f212-4241-912a-ca0d36827118;19/09/2020;Vendas;Plano de Recebimento;233,31 
+a907309a-3a70-4620-b36b-e3381b7e744e;19/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,29 
+8317fa7e-ef4c-4fc8-87ff-0c13bba70a79;20/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,14 
+f18007c5-9cee-44cc-af4d-354a78b2adf4;21/09/2020;Vendas;Plano de Recebimento;15,62 
+ff4bc919-a3f2-4290-9e51-eca91b887bc5;21/09/2020;Vendas;Plano de Recebimento;9,76 
+9b39c489-a932-4ef4-a811-8cf376855e07;21/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,50 
+52870b07-d668-4c2a-8719-a06001f4c349;22/09/2020;Pagamento de conta;Pagamento De Contas E Títulos;-160,58 
+adfdd0a7-9da1-4491-9c47-0f57d08b4dd2;23/09/2020;Vendas;Plano de Recebimento;334,00 
+f82e7c1d-2147-4bce-83be-2e6d3d7835f4;24/09/2020;Pagamento de conta;Pagamento De Contas E Títulos;-13,66 
+fe34c316-a9ee-458d-b91d-28f0c619dc6a;24/09/2020;Cashback;Valor recebido pela recarga de celular;0,70 
+bf7ccd88-24fb-46d4-ab78-df0dd58c8b0d;24/09/2020;Recarga de celular;Recarga de celular;-35,00 
+ec8a2087-2d28-4c44-acc6-8986e35e2189;24/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,07 
+71264a1a-fb12-4939-9db3-2bf2a8176617;24/09/2020;Vendas;Plano de Recebimento;47,44 
+3782e8ce-8de9-40ba-bf05-d4b6fe3c3164;25/09/2020;Pagamento de conta;Pagamento De Contas E Títulos;-442,93 
+aa4dccd0-fde9-4e33-88f9-34ed76f4c931;26/09/2020;Vendas;Plano de Recebimento;78,09 
+b707e251-d105-4960-88e4-1199438e9de1;26/09/2020;Vendas;Plano de Recebimento;61,47 
+4fa64823-1c17-4e21-ab3c-c963f04e1b1f;26/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,12 
+63a556a0-38cc-48c2-83ce-9aa776c72805;27/09/2020;Vendas;Plano de Recebimento;45,02 
+05fcda5b-8a44-462a-bc84-dacb276d9436;29/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,23 
+21234ca5-a96a-4a8e-b890-7d604f8881d6;30/09/2020;Pagamento de conta;Pagamento De Contas E Títulos;-268,18 
+e8acc474-132c-43ac-8f8f-5d94afdec939;30/09/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,09 
+f18296f5-0e41-467d-8663-ef68ece9dc89;01/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,26 
+53e0006a-3d48-4ae7-aec9-d2e957a12ca3;02/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+43b414bf-7f58-43bd-a74c-8668d77c6f1c;03/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,24 
+40a1a780-7230-44dd-bf0c-980bd10c28fc;05/10/2020;Vendas;Plano de Recebimento;39,69 
+059d08c9-a74d-48e4-93fe-a9d968bf7be4;05/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,09 
+2434eb60-2b50-44b8-807f-94ba3bc64a44;07/10/2020;Vendas;Plano de Recebimento;125,85 
+0a27ce22-1d7f-4221-843c-6ad0c4549211;07/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+35e4b942-6918-4530-abd9-5e858b83025d;08/10/2020;Vendas;Plano de Recebimento;169,42 
+13005b53-87b2-47ca-9538-f110780a1351;08/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,55 
+c824575c-3e44-4cec-9b1f-6b1e810a7166;10/10/2020;Vendas;Plano de Recebimento;242,02 
+bb677220-9924-459d-b3a2-8eee451994d8;12/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,78 
+340bf475-3b77-45bb-8faf-ddeaa4d48094;13/10/2020;Vendas;Plano de Recebimento;116,17 
+562875b8-d76b-45ae-8aad-4ff3333d3f90;13/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,22 
+6e7c76ac-f2a8-4621-8463-f24824c84a0d;14/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,19 
+6403bf3b-0d0d-4466-be5f-41b02e3ff08f;16/10/2020;Vendas;Plano de Recebimento;48,40 
+7fa620c1-d3a4-4bbb-b105-3644e5d07c16;18/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,11 
+ca94d58d-43a4-4ca6-a6fd-ca7a9aeaf71c;19/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,42 
+994c135f-f15f-4452-807b-623e89e7bb17;20/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,14 
+a79e4371-9efd-4b3a-a9f4-40393a200428;21/10/2020;Vendas;Plano de Recebimento;121,01 
+124da72e-015d-46f8-9d2b-224b9e93bb47;21/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,26 
+65047281-1cb5-4c7b-8062-872f298586f4;22/10/2020;Vendas;Plano de Recebimento;48,40 
+6d751fd0-8011-4814-9444-97b5616280b7;24/10/2020;Vendas;Plano de Recebimento;24,20 
+abcfa8d1-5b10-4a2a-a2f6-d9f7479201bb;26/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,29 
+3638dce0-7b33-4f68-9c49-b12e0d3dd1ad;27/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+941d6d13-5456-47cd-a71c-461c0c88e54d;31/10/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,26 
+a2329630-c62f-4abd-9e92-cdc2adffd8b3;02/11/2020;Vendas;Plano de Recebimento;370,79 
+24aab1cb-f287-4114-8704-44132f4d49c4;02/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+53b44de5-2da0-47cf-b22d-5dfb2dba6325;03/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,24 
+16a3fc99-4614-4b86-a7cc-eb4f82599a9a;05/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,14 
+84af4928-602f-4c88-b465-2c69c8bdb14a;07/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,19 
+9cdfa1f4-7d1b-44e9-a669-a5d380069d09;08/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,76 
+490869c9-06aa-4326-9cf5-7c7dcf0f8760;10/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,29 
+548d1431-2cd7-4538-838c-af81a69ff1f9;12/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,78 
+ebb77a86-848d-445a-b8b5-7beea8dacefd;13/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,36 
+03473b55-b4d2-4cad-8a0b-a452c87bc4d0;14/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,19 
+e44bc956-4e40-421b-86c1-cfd04386532d;16/11/2020;Transferência Enviada;Transferência Para Outras Contas;-511,06 
+7a527be2-3af8-4fb5-a7dc-4658b8a7fada;16/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+9e7458ad-23f5-4d61-a911-604542be107a;18/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,11 
+ab861962-74fc-4505-a259-bfa7e04b594c;19/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,42 
+42bdde84-de42-449d-8ff7-1ed07007ed75;20/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,14 
+e07f1e21-0cdc-4ca2-82cd-a34d7fab8583;21/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,41 
+267dd858-409e-45c1-9bdc-a9272b0fbf89;22/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+9face47e-179f-4d06-9387-7b7ade5d408c;24/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,02 
+69e35c3d-e1c3-4e34-9d3f-0d01d325190b;26/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,29 
+ba527119-5a98-493a-9f36-610fdf86390d;27/11/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+da1f04fa-bca9-43a0-8680-3cedab29cffa;01/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,26 
+3f1013e9-9e18-4c17-b6c0-e8174d1a6319;02/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,50 
+4f072c03-4004-49a1-b1dc-0d027946d5a4;03/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,24 
+07e18e64-01bf-45a2-8b75-1607f36f5c3f;05/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,14 
+8489a21f-a76a-49b6-8997-dd087e62918e;07/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,20 
+9e0c04ec-f09a-4fde-82cd-24004e262317;08/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,76 
+e38803e0-d6cb-44bc-a230-468ba1e258ed;10/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,29 
+a98e5c99-2ed2-4fb5-860f-aa46c986eb8a;12/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,78 
+e3961a35-9772-4b75-b136-0fbaebfce269;17/12/2020;Cashback;Valor recebido pela recarga de celular;0,70 
+bf271111-8e12-47a7-b1bd-4e18e4a3ece2;17/12/2020;Recarga de celular;Recarga de celular;-35,00 
+fe4eba61-8fea-4229-a03a-12def7588895;17/12/2020;Cashback;Valor recebido pela recarga de celular;0,70 
+caebe144-b90d-4d37-ba75-e0ce18614aeb;17/12/2020;Recarga de celular;Recarga de celular;-35,00 
+66c8d097-68e5-463d-abe8-288f4e3e0b83;17/12/2020;Cashback;Valor recebido pela recarga de celular;0,70 
+a4a34762-af9a-4272-b8f9-aaf35e05d743;17/12/2020;Recarga de celular;Recarga de celular;-35,00 
+ad4061d0-0969-4f38-8a41-7d1087aea525;18/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,11 
+2d814504-7793-41a7-ba8d-1b2de645f52d;19/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,42 
+3f30ba31-1e3b-4815-ae7d-ef2d7dc3c471;20/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,14 
+7e1dd96e-d840-4bc1-b711-68bac893704f;21/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,42 
+a5b63823-dd85-44ae-8646-79eaa622fb21;22/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+1fa85727-fd76-4586-a1a4-56b59135bb07;24/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,02 
+7bd75d1c-16f0-4876-bcb2-a551524ed451;26/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,29 
+44d1cc6e-d12e-458f-8e9f-045ee84e8ef1;27/12/2020;Pix recebido;Recebimento De Transferência Pix;160,00 
+e245d555-e038-432d-ba2f-3df5e55a75f0;27/12/2020;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+9495fd1a-810c-4c7c-82b4-25ddfddd5407;02/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,50 
+6e35bc17-a812-4ef2-b1f6-e13bc29b1b4a;03/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,24 
+9d849e17-df1c-4ffc-8f8d-1f73f24cf891;05/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,14 
+70174567-be2f-405e-b40c-5adad1696cb2;07/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,20 
+b1f0a2e2-7baa-4e2b-868a-4463dc4845cf;08/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,76 
+0e19aa59-74de-48f8-aa9c-8a05ee520e91;10/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,29 
+f7c9db20-cd20-4a23-b564-80efafc3b2e5;12/01/2021;Pix recebido;Recebimento De Transferência Pix;21,00 
+215fc89b-b2ec-47bc-9443-3e80f4bea37b;12/01/2021;Pix recebido;Recebimento De Transferência Pix;285,00 
+e89550ae-e3e2-4212-b372-f497f93ead30;12/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,66 
+728d5902-a84a-44f0-b674-59643220fbe5;18/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,11 
+a9486ed8-ccfd-4b4e-a022-481139534d3e;19/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,42 
+f0147e9c-41eb-4edd-93e7-218efb889d7f;20/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,14 
+525c7cc9-01c2-4f74-a834-4ca33668b8e9;21/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,42 
+9abc0d79-56c9-4dcc-9370-9f1c42c579dd;22/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+446cbc83-e55b-4595-b289-425bc4a68ccd;24/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,02 
+0ba1440e-57f5-49fd-b00e-d4be14103a8f;26/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,29 
+1deb03e0-3072-4cdd-8bce-b00c5010ea56;27/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,25 
+d71a2325-71c5-471e-bc9e-7de20bc7d551;31/01/2021;Pix recebido;Recebimento De Transferência Pix;40,00 
+efcb6938-4094-4e1b-acb1-1421632e0255;31/01/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,26 
+06d1d0a3-d93b-473a-b783-5c08deb4c87d;02/02/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,50 
+39997356-195d-4164-853b-5c50b4c24fbb;03/02/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,24 
+e294afda-46ea-404f-bfae-83e2d60a452c;04/02/2021;Renda Fixa;Aplicação em CDB;-2000,00 
+13acb912-b8b3-4edc-aefc-3986634d1f7e;05/02/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,14 
+f17176b3-2dcc-4be8-beb9-91d01ad4784b;07/02/2021;Pix recebido;Recebimento De Transferência Pix;80,00 
+7c052953-7fc1-489e-8c6f-6ecd08f258a4;07/02/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,20 
+1ca9bc91-d218-4f60-88ed-9c5d7ea74056;08/02/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,76 
+10b332af-beaf-4163-851d-f485eefa3c73;10/02/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,29 
+5aa6460d-dbb4-43c0-8981-8d8191012407;12/02/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,03 
+9efb1dbd-28e9-4b77-8dbe-44acbadb574a;18/02/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,11 
+da8aed90-25f7-4446-a193-6cb4ad65c6e3;19/02/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,26 
+3157a85e-eccd-40e1-8b1b-af5e25e28e65;24/02/2021;Pix recebido;Recebimento De Transferência Pix;98,00 
+0f7fa6e9-b2d3-49a1-8ea9-734589dfb089;26/02/2021;Pix recebido;Recebimento De Transferência Pix;2000,00 
+5a99d6f7-214e-4ae4-a648-1ff5ea705304;02/03/2021;Pix recebido;Recebimento De Transferência Pix;34,45 
+febfdbe8-cbe0-4959-bac5-bc7ac6eeb5b7;04/03/2021;Pix recebido;Recebimento De Transferência Pix;254,00 
+47e3c32c-00ed-4826-b2d5-c160ec323e87;05/03/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,13 
+d118c83c-19a4-4494-a01a-c283acc31c10;07/03/2021;Pix recebido;Recebimento De Transferência Pix;90,00 
+2f006dc6-039a-4f4b-ac25-44f227eeb7d7;07/03/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,28 
+cb1f64af-1df5-4aea-97fd-903b56c555c4;08/03/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,71 
+872539d8-ce71-439b-bd2c-880f9f4204c4;10/03/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,28 
+06804f4f-e5d5-45ea-bf57-0ef7532b0e95;12/03/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,97 
+ada8afcf-fb44-4c42-bc8d-e8fd0f3bb21b;17/03/2021;Pix recebido;Recebimento De Transferência Pix;65,00 
+787f77b8-e2e6-4706-a880-ab22b22ec18c;18/03/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,10 
+37ef68b6-69b9-47a4-9225-e9ccd2abb602;19/03/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,34 
+974090e8-5b51-4eab-b1d8-ae79dd9ea517;22/03/2021;Pix recebido;Recebimento De Transferência Pix;22,00 
+d294823d-87ec-4853-9f39-3d95cdace438;24/03/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,16 
+7e66a42f-1875-405d-b7a4-3192dda7fa7c;26/03/2021;Pix recebido;Recebimento De Transferência Pix;13,00 
+1b780502-5960-4f04-b188-c7037645f35c;26/03/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,66 
+88c5c31e-dbc5-48cc-8a02-f635ffeaede3;31/03/2021;Pix recebido;Recebimento De Transferência Pix;120,00 
+c80c7674-7245-4b93-9dbb-eca8786bc50f;02/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+d99ac975-3996-48e4-ae1f-b21eb165672c;04/04/2021;Pix recebido;Recebimento De Transferência Pix;162,00 
+50e3ebfc-39e5-4daf-a856-19fe5a5b1995;04/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,43 
+90072e1d-ec99-4d98-8a7a-5e3fee11f84d;05/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,19 
+e895f99c-5af2-443b-a7bf-303260912565;07/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,57 
+b64063f6-346f-4bee-90ff-636c288caa7c;08/04/2021;Pix recebido;Recebimento De Transferência Pix;161,00 
+e934c955-dd6c-423a-9159-236d6a0c45fe;08/04/2021;Renda Fixa;Aplicação em CDB;-2000,00 
+06769452-b58b-4d9f-aff3-cbcb155147af;08/04/2021;Pagamento de conta;Pagamento De Contas E Títulos;-49,03 
+e9cad2db-af04-4c9d-815a-3b53d0b412c0;08/04/2021;Pagamento de conta;Pagamento De Contas E Títulos;-49,03 
+e57528ca-68ff-4497-8b7e-7946b54a50d9;08/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,06 
+4686c0af-6bdb-4335-b31e-3c957d50ff8e;10/04/2021;Pagamento de conta;Pagamento De Contas E Títulos;-298,52 
+2df4dd37-8d5f-494d-ad59-eb126a8bf6a2;10/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,41 
+c603f4e7-1289-4304-8e9a-9b76d4fdb0fd;11/04/2021;Pagamento de conta;Pagamento De Contas E Títulos;-1272,55 
+0d8cf9d2-cfda-49e0-8066-61e61c73a6a7;11/04/2021;Pagamento de conta;Pagamento De Contas E Títulos;-57,11 
+0b0d66cd-7381-412a-b7c4-9d74b8d12499;12/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,44 
+6c56b0c8-9330-471a-9981-9b7fd4c19790;14/04/2021;Pagamento de conta;Pagamento De Contas E Títulos;-280,68 
+1334eb48-a263-48b2-81f0-b4e963fa5719;17/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,11 
+02734e1c-85d6-4263-b3c6-9120ae62675f;18/04/2021;Pix recebido;Recebimento De Transferência Pix;40,00 
+9dc08725-b2b4-4540-a57e-825a5385f30a;19/04/2021;Pix recebido;Recebimento De Transferência Pix;120,00 
+0ddfd70b-b945-4f31-9829-99df70408b5f;19/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,16 
+c59d01fc-9771-4ec5-a81d-c2844be2b884;20/04/2021;Pix recebido;Recebimento De Transferência Pix;58,00 
+add87a24-2031-49ac-be3a-ca861052875f;20/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,36 
+ddab4ff1-2959-4143-90e1-3c49a357a591;20/04/2021;Renda Fixa;Aplicação em CDB;-200,00 
+ad56742f-e2a5-4eaa-a203-b92bad199895;22/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,03 
+a4cf1c2e-bbdd-456f-888c-37850bc9ef15;24/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,16 
+875f82ff-792e-4ee0-acc8-84a88683780d;26/04/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,56 
+999a15fa-7282-4669-a82a-3b567b755378;26/04/2021;Pix recebido;Recebimento De Transferência Pix;147,00 
+b0e6e223-4cce-47b9-ab52-2a7b48d3e135;29/04/2021;Pix recebido;Recebimento De Transferência Pix;139,00 
+d22067a7-8c84-4eb8-a1aa-be84fef17abc;03/05/2021;Pix recebido;Recebimento De Transferência Pix;119,00 
+eeef35c8-0c96-4847-b810-c9b4b3cc533c;04/05/2021;Pix recebido;Recebimento De Transferência Pix;65,00 
+d5f904d8-b9bc-4745-bbea-467e1104d1f8;05/05/2021;Renda Fixa;Aplicação em CDB;-2793,00 
+ac30798a-2ba5-494e-852e-1b507df04f31;05/05/2021;Renda Fixa;Resgate de CDB;2016,87 
+967c17e9-b547-4913-b2db-21a084c5b7fc;05/05/2021;Pagamento de conta;Pagamento De Contas E Títulos;-44,96 
+9f8b20e4-23b3-4c66-b2d8-7e3874ba1382;06/05/2021;Pix recebido;Recebimento De Transferência Pix;96,00 
+a6b63318-eefd-42ca-b83c-c54c9cbb6b49;06/05/2021;Pagamento de conta;Pagamento De Contas E Títulos;-39,43 
+444dafe3-603e-44e3-be24-a03953c271be;07/05/2021;Pix recebido;Recebimento De Transferência Pix;39,00 
+f308ee86-a18e-4ba0-8e37-83afe8c1b6be;10/05/2021;Pagamento de conta;Pagamento De Contas E Títulos;-98,32 
+eb29ad7d-ab63-4382-9c27-b7dd6249c434;10/05/2021;Pagamento de conta;Pagamento De Contas E Títulos;-49,03 
+6e57ce98-1217-4986-81b4-26d8348c8fba;10/05/2021;Pagamento de conta;Pagamento De Contas E Títulos;-49,03 
+8164f567-d80d-485e-aa77-ce39420ffa88;12/05/2021;Pix recebido;Recebimento De Transferência Pix;477,00 
+99e144dc-73f2-4b91-a41b-985fa26eab2c;13/05/2021;Pagamento de conta;Pagamento De Contas E Títulos;-114,30 
+617e6df4-1ca8-4305-a4a8-a3c803f59636;14/05/2021;Pix recebido;Recebimento De Transferência Pix;145,00 
+e05fe750-694b-4f47-a718-6e7059923227;14/05/2021;Pagamento de conta;Pagamento De Contas E Títulos;-210,87 
+e6e8b885-8a4d-4002-9648-7c138890c919;17/05/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,14 
+f4eda8c3-b311-4e86-8e11-4c009001b399;18/05/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,20 
+7e14fc4d-355f-45eb-ac55-1777d8e0871a;19/05/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,51 
+313b982c-ce36-4dda-9b0e-9578af608559;22/05/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+a6b5d0af-7f40-4d3e-a7e1-2f52cd6f5f84;24/05/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,21 
+92a49901-79a6-4f51-9335-d44e86ce474a;24/05/2021;Pix recebido;Recebimento De Transferência Pix;140,00 
+18f6d9d2-0185-4b0c-9f53-f0564d9bfbff;26/05/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,02 
+0da6c5e1-1d56-40e2-8da8-2a1ec4139286;27/05/2021;Pix recebido;Recebimento De Transferência Pix;13,00 
+c2e90eca-e553-4a4f-898e-14c29e29cfad;05/06/2021;Pix recebido;Recebimento De Transferência Pix;141,00 
+59c5c851-bbb2-43ff-878d-b8b3337df6a2;08/06/2021;Pagamento de conta;Pagamento De Contas E Títulos;-105,35 
+bddda003-f610-42ca-9c60-c67af96170cb;08/06/2021;Pagamento de conta;Pagamento De Contas E Títulos;-52,52 
+6e7c02e1-279f-4e4f-af4c-8b1a4db409fc;08/06/2021;Pagamento de conta;Pagamento De Contas E Títulos;-52,52 
+a5aac716-361a-4fd2-822d-aa4b276d218c;10/06/2021;Pix recebido;Recebimento De Transferência Pix;15,00 
+23b85ca4-808e-43f1-9172-23d0c9220486;10/06/2021;Pix recebido;Recebimento De Transferência Pix;10,00 
+37d0ffca-73c2-4a66-833e-642d3a5735e6;11/06/2021;Pix recebido;Recebimento De Transferência Pix;125,00 
+abdf6df6-7ec0-4721-8b08-8c06c968dc30;12/06/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,64 
+c7950ced-9d7c-4efe-9581-1e845f1c86cb;15/06/2021;Pix recebido;Recebimento De Transferência Pix;36,00 
+9094b0ba-6caa-40e1-b421-3d195bac3972;16/06/2021;Vendas;Plano de Recebimento;5,00 
+13a0c156-4d12-41e2-bda4-c1846dd5e7d6;17/06/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,14 
+37d73d5f-64dc-4933-9b35-ccd6c3754ab3;18/06/2021;Pix recebido;Recebimento De Transferência Pix;135,00 
+d711a4e6-9a76-4381-8e3d-3e4913eb1cc8;18/06/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,24 
+81264e7e-a3cd-4a01-aa04-7afaf4042c68;19/06/2021;Pix recebido;Recebimento De Transferência Pix;30,00 
+545df6b2-4af5-4aa9-804d-be7630f3f709;19/06/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,62 
+6ca930ab-0b99-47c9-8a36-5eb36713d6d8;22/06/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+1a85d9e6-da3c-4419-acff-8d77cba4d373;23/06/2021;Pix recebido;Recebimento De Transferência Pix;51,00 
+065e4e4e-d711-4a3b-8c2d-e2ba00606c67;24/06/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,62 
+d87e8eb9-95ab-4773-84f2-3270968c230a;26/06/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,09 
+1c6e722f-17aa-4e7d-b219-3e3e3929c41f;28/06/2021;Pagamento de conta;Pagamento De Contas E Títulos;-168,49 
+6dcd79a3-b04d-4813-9e35-68ee8d0e3dc0;30/06/2021;Pagamento de conta;Pagamento De Contas E Títulos;-70,52 
+4b4d67a6-06c0-4e64-bb9e-e37fd66be517;01/07/2021;Pix recebido;Recebimento De Transferência Pix;79,00 
+bd3587fb-c650-4543-8812-5feaa7efd1a4;01/07/2021;Pix recebido;Recebimento De Transferência Pix;195,00 
+e4e4388e-b1ee-48a3-b316-8ec37732b6f6;03/07/2021;Pix recebido;Recebimento De Transferência Pix;35,00 
+01569b30-dfcf-4949-a3ec-f7c7c572bf17;05/07/2021;Pix recebido;Recebimento De Transferência Pix;43,00 
+d402b9e4-ff86-429b-923a-033853dc8627;06/07/2021;Pix recebido;Recebimento De Transferência Pix;36,00 
+05db5053-0a3d-4d6a-80f4-0320b1a959ea;07/07/2021;Pagamento de conta;Pagamento De Contas E Títulos;-673,62 
+5dfd4f7f-323c-4735-a67d-88991ceadeba;07/07/2021;Pagamento de conta;Pagamento De Contas E Títulos;-105,35 
+d3020505-a6ef-4333-9996-cae6a06003c4;07/07/2021;Renda Fixa;Aplicação em CDB;-2000,00 
+4c2889ef-f78c-4608-b2fc-ad915a29ab6d;07/07/2021;Pix recebido;Recebimento De Transferência Pix;210,00 
+43b82c80-6fa3-49c4-bb97-5b60ee7925f5;07/07/2021;Renda Fixa;Resgate de CDB;2025,25 
+4b6e816a-3a86-406a-871d-7d0032b54c42;10/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,06 
+8f2af412-af41-4394-92f9-1ad236e3ac16;11/07/2021;Pix recebido;Recebimento De Transferência Pix;120,00 
+f2b96d20-ca1a-4bf1-81a6-e89c9f841db7;11/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,33 
+5e9c4d33-a911-412a-b667-68bad82b0586;12/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,78 
+70ecc600-186f-490a-94e7-8601419760c8;15/07/2021;Pix recebido;Recebimento De Transferência Pix;10,00 
+7cdd8a82-018c-4edb-8f71-049cad761a72;15/07/2021;Pix recebido;Recebimento De Transferência Pix;195,00 
+a996dbf5-5e9d-4e95-ab57-01db5a26743c;15/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,09 
+787a3cd3-98d6-4f93-8fcd-d2c054be4a34;16/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,01 
+08330926-275c-4d9a-bd19-fe0ca85d994a;17/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,17 
+a75d1bff-fe8c-4092-9424-9dd6cf85e213;18/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,60 
+f51d97fe-1ca2-4a58-ad76-6459084b85d8;19/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,62 
+f6261a69-a590-42c2-904b-cbb8d5c8e133;19/07/2021;Renda Fixa;Aplicação em CDB;-500,00 
+ed2538a9-9574-4012-9bcb-73e4164fa80f;19/07/2021;Renda Fixa;Resgate de CDB;202,67 
+fd8b82c2-36cc-4dec-8064-c04cbc373b2e;21/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,08 
+81e54929-a17a-4310-8790-dc632e7537de;22/07/2021;Pix recebido;Recebimento De Transferência Pix;220,00 
+516b9d1d-7c9c-41d1-b3ef-8ec811a108bf;22/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+01aecd38-0dbe-4bd1-aaa1-5ca9b035cbab;23/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,13 
+459dc397-8fbf-4893-8c3b-f2566ddbd6fb;24/07/2021;Pix recebido;Recebimento De Transferência Pix;130,00 
+60964dcc-1bc1-4185-922c-b57ad63a4cfc;24/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,63 
+0f31119f-915f-44a1-9e7d-1c08e7950772;26/07/2021;Pix recebido;Recebimento De Transferência Pix;100,00 
+e6e93131-98b3-4be1-b256-442e07ae9755;26/07/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,06 
+210b43f5-b2df-4adb-afba-fdb5d8f45f8e;26/07/2021;Pix recebido;Recebimento De Transferência Pix;65,00 
+2cf95da4-c40a-451c-91b3-f780dcb8fc6e;27/07/2021;Renda Fixa;Aplicação em CDB;-1000,00 
+939b424e-785c-409b-9403-229f122b7e7c;28/07/2021;Pix recebido;Recebimento De Transferência Pix;14,00 
+ba34f128-8549-465a-a1cb-4a677576a1c7;30/07/2021;Pix recebido;Recebimento De Transferência Pix;200,00 
+f8dfed93-5bf5-4778-a507-d356f16f87e3;02/08/2021;Pix recebido;Recebimento De Transferência Pix;135,00 
+a95b7b80-3e9d-4867-8c49-d963a7b62df1;03/08/2021;Renda Fixa;Resgate de CDB;2833,53 
+f415c163-1305-4f7d-bc61-88e4a3f24564;04/08/2021;Renda Fixa;Aplicação em CDB;-3000,00 
+aa20c8ed-09e8-4b7f-87b6-2d7572d65128;04/08/2021;Pix recebido;Recebimento De Transferência Pix;130,00 
+00d413cf-e168-40d9-a5e4-bf5805e3f0d5;06/08/2021;Pix recebido;Recebimento De Transferência Pix;120,00 
+3a82badb-5c8b-4a9d-b2e9-e96272abb37f;06/08/2021;Pix recebido;Recebimento De Transferência Pix;195,00 
+9fc5f60c-b8b3-49f0-b66a-905329ee8e3d;08/08/2021;Pix recebido;Recebimento De Transferência Pix;80,00 
+1e5602ec-4d35-490d-8e40-8c9b77158eaf;10/08/2021;Pagamento de conta;Pagamento De Contas E Títulos;-392,72 
+dde2e3b3-8c99-43ed-ba22-ae37fd00ad08;10/08/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,08 
+34f85345-3f92-401b-ab0b-3b5b4a849db7;11/08/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,40 
+b4bd0929-9ae1-43a5-b0bf-d3844f1a40c8;12/08/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,36 
+af84e4ab-7d1a-4960-9932-eb8cca97634f;13/08/2021;Pix recebido;Recebimento De Transferência Pix;25,00 
+3aca200d-1925-494b-b22e-e5ef2865e8ef;15/08/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,78 
+26cd46d8-336b-472b-a7b9-730f9da69732;15/08/2021;Pix recebido;Recebimento De Transferência Pix;36,00 
+0e5f9d92-07ee-4651-9a10-0540d0d51c73;16/08/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,02 
+f66e6102-0f2c-44a6-ba06-f0eebb6dd8aa;17/08/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,21 
+5afd06b4-799f-4ff8-b93f-7f5921345216;18/08/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,17 
+00670afd-1716-4be3-9e8d-652a129b0d5b;28/08/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,04 
+91e19d85-7a6c-4228-98fa-a2a92bb25be5;30/08/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,64 
+3c592ff6-89fa-449e-8da0-f0bf6cbb2b2d;02/09/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,32 
+ece4ce1d-9ec4-49af-89f4-2c5692cd7092;03/09/2021;Pix recebido;Recebimento De Transferência Pix;195,00 
+1aac6b28-468c-49e8-86d1-20c5285baa70;03/09/2021;Pix recebido;Recebimento De Transferência Pix;65,00 
+4afab106-7500-4f2e-b5f2-a38c216a732f;05/09/2021;Pix recebido;Recebimento De Transferência Pix;120,00 
+c6dc7ff0-b3ec-4f9f-8977-8f1cd17aeb47;06/09/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,09 
+81ff76f2-00da-45b1-94ad-a88824f45090;09/09/2021;Pix recebido;Recebimento De Transferência Pix;72,00 
+56459743-98de-4760-a06e-518db8d9b6ad;10/09/2021;Pix recebido;Recebimento De Transferência Pix;300,00 
+84b254b6-50cc-45d0-8cfe-956cad26dcb9;11/09/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,40 
+692be87e-8e12-4de0-bd48-e34934c61446;12/09/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,36 
+5bf4a739-1a11-4dd1-8e6e-95c8973b8f62;13/09/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,08 
+2f4ba1d3-2696-4912-8e3b-e1a88187255c;15/09/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,78 
+af98a9d3-102c-4d77-9d04-201d2a30a73e;16/09/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,13 
+95caf7bb-878f-4f5d-b416-77013dd98c3a;17/09/2021;Pix recebido;Recebimento De Transferência Pix;140,00 
+46a1eb9c-ee34-4921-8648-eb86885d5111;17/09/2021;Pix recebido;Recebimento De Transferência Pix;120,00 
+49b2ef31-a2b2-4706-90c9-72cdc7703d30;17/09/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,21 
+4a1922c5-9b18-4a40-a49c-c9bbd3a82499;18/09/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,17 
+cf6d4283-c088-433e-93bb-a59bfbd136e2;19/09/2021;Pix recebido;Recebimento De Transferência Pix;140,00 
+2a26744f-5595-412d-8985-0897cd5f642e;20/09/2021;Pagamento de conta;Pagamento De Contas E Títulos;-61,00 
+8ae7ffe2-14f4-472e-95e0-d117e5906085;20/09/2021;Pagamento de conta;Pagamento De Contas E Títulos;-61,00 
+0485a020-db10-48e2-bc34-cf1ac8b9a05b;24/09/2021;Pagamento de conta;Pagamento De Contas E Títulos;-352,34 
+c154a9f1-a6c4-49f3-bab2-86622cdb7ccd;27/09/2021;Pix recebido;Recebimento De Transferência Pix;145,00 
+84752f2c-4dce-4ea7-9bc5-2a8cd5b235f4;28/09/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+31bb9534-7866-4c4f-a035-f8812c515734;29/09/2021;Pix recebido;Recebimento De Transferência Pix;240,00 
+db701b78-6df7-40de-8c2d-a4dce71cc37f;30/09/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,78 
+c22af2e5-7da2-41d6-beea-f69bea8c6a53;01/10/2021;Pix recebido;Recebimento De Transferência Pix;40,00 
+0720b181-f78a-4aa5-820e-344961147929;02/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,38 
+6a9f4351-6319-4d0e-af33-da795d9935de;03/10/2021;Pix recebido;Recebimento De Transferência Pix;150,00 
+9c20d77c-186c-4dc6-b119-0b1474a35ab7;03/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,00 
+7fd31d3c-790a-4b4d-bdfe-8309ff4eb605;04/10/2021;Pix recebido;Recebimento De Transferência Pix;30,00 
+a0e3b5a7-0551-41e8-9f50-4d651f29e1bf;05/10/2021;Renda Fixa;Resgate de CDB;2037,83 
+b85dc86b-aa0f-4e3b-878a-1e44bc28d75a;06/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,57 
+3bd6a009-6ffd-4641-9e2c-968dd5ca402a;06/10/2021;Renda Fixa;Aplicação em CDB;-1500,00 
+707a7a75-dbd6-4b31-a5ad-33fc4580ae92;06/10/2021;Renda Fixa;Aplicação em CDB;-415,00 
+7a79c2a2-95e4-4207-bf43-1ab2fc74b653;07/10/2021;Pix recebido;Recebimento De Transferência Pix;164,00 
+0d901ecd-fcdf-40e0-84de-9b472e879d6b;07/10/2021;Pix recebido;Recebimento De Transferência Pix;195,00 
+17e98892-bd43-4e38-94b9-938c89ac083b;09/10/2021;Pix recebido;Recebimento De Transferência Pix;136,00 
+2078cb4b-ae44-476a-9343-0b2cde7c3a98;09/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,27 
+46b075f7-a888-4b9a-adbc-041ead36033b;10/10/2021;Pix recebido;Recebimento De Transferência Pix;130,00 
+193a4ceb-87c4-44da-baa2-f20cfc68b97d;10/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,15 
+4d7f1310-4795-4d6f-8ed1-21b206a3935a;11/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,48 
+899957a5-534e-449c-a0c8-1ad9f2027661;12/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,62 
+b31631a0-1de5-41f5-8c0a-7c17595f5b45;13/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,10 
+97236654-69f8-4259-bc44-01ba4cc626bc;13/10/2021;Renda Fixa;Aplicação em CDB;-500,00 
+a8dc49e5-7994-436a-9dd8-aa76588ea540;15/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,93 
+9c193810-2de3-497e-9993-04c9ebbcf876;16/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,16 
+da9f865b-cce1-409f-94ec-992242d051b4;17/10/2021;Pix recebido;Recebimento De Transferência Pix;60,00 
+b0a2ba94-53d0-468b-96a7-9aef7dd11b56;17/10/2021;Pix recebido;Recebimento De Transferência Pix;40,00 
+7217535d-8e25-46dd-9da9-3e79f4a6a755;17/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,17 
+4d3ab44e-3a6b-48b5-8192-d658fb585344;18/10/2021;Renda Fixa;Aplicação em CDB;-494,00 
+7a2d233c-beae-4cca-bec8-7ff75e714d20;18/10/2021;Renda Fixa;Resgate de CDB;509,94 
+e45b5548-9ff4-4543-b663-2f82077c2f5f;18/10/2021;Renda Fixa;Aplicação em CDB;-1500,00 
+206faa06-8192-4a91-aca7-1e3751089385;19/10/2021;Pix recebido;Recebimento De Transferência Pix;14,92 
+899b313a-52c5-48f8-bd65-8b8b0b891e83;20/10/2021;Pix recebido;Recebimento De Transferência Pix;65,00 
+e5c2173c-0cab-4125-9608-831be2b1812f;25/10/2021;Renda Fixa;Aplicação em CDB;-1015,00 
+2da89d4f-2893-4f1d-84d0-55a12e4d27d0;25/10/2021;Renda Fixa;Resgate de CDB;1020,22 
+88338e32-ca5a-4864-9f49-30e4a9c358c9;27/10/2021;Pix recebido;Recebimento De Transferência Pix;140,00 
+6e019123-5857-42fa-83a7-e94b38f3a0bd;27/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,56 
+e1356eaa-0a00-4947-b792-c08097077748;28/10/2021;Renda Fixa;Aplicação em CDB;-1000,00 
+e3fb6bfd-76c9-49f9-b274-b7f275a8bd82;28/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+48a55463-7ff0-4c26-87d4-9ee54bf4b8f9;29/10/2021;Pix recebido;Recebimento De Transferência Pix;44,00 
+8c046860-055a-4fd0-b432-fcb9672b9e9f;29/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,14 
+04c0cc1a-bca9-48b5-bc9f-9384247df85b;30/10/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,96 
+f29f9b98-897c-4062-9a7f-a92eaacdc9c9;01/11/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,19 
+fa249244-44b7-4d18-bed2-58c2d9ac102d;02/11/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,46 
+b6bbb24a-607f-40d7-aad9-341c1ebb8e67;03/11/2021;Renda Fixa;Resgate de CDB;3063,62 
+8e3365cd-ae3f-4722-bd62-9ed91a1471da;03/11/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,55 
+09831add-a0ba-44ec-a556-0932e529dd21;04/11/2021;Renda Fixa;Aplicação em CDB;-3065,00 
+41497bcf-2508-4a57-aeee-b9f3b1ce3395;10/11/2021;Recarga de celular;Recarga de celular;-35,00 
+36665c85-3333-48cb-bbaf-dfd073bde1f9;10/11/2021;Recarga de celular;Recarga de celular;-35,00 
+71093726-16a4-4058-82de-67e12ef4be2a;10/11/2021;Recarga de celular;Recarga de celular;-35,00 
+94e8b61a-e6ad-48e6-ac4f-f2b87a870d81;11/11/2021;Pix recebido;Recebimento De Transferência Pix;247,50 
+1a26df82-9628-4172-97ba-0949eca8ae1a;13/11/2021;Pix recebido;Recebimento De Transferência Pix;433,59 
+e3a74963-8c9f-484b-8000-31d3335470c9;13/11/2021;Pix recebido;Recebimento De Transferência Pix;65,00 
+f94d0862-1f98-4ef9-b2ef-c9dd3d4cb834;15/11/2021;Pix recebido;Recebimento De Transferência Pix;80,00 
+38dd879a-2d2a-4c90-ba2f-706b9d8feb42;19/11/2021;Pix recebido;Recebimento De Transferência Pix;130,00 
+1d09696c-c684-4ac2-b94f-49d11c119505;19/11/2021;Pix recebido;Recebimento De Transferência Pix;131,00 
+b231316c-8c3e-440e-89b1-2ebee9737fb4;24/11/2021;Pix recebido;Recebimento De Transferência Pix;65,00 
+b5f93268-3ff4-4931-814f-acc0e6b413c3;29/11/2021;Pix recebido;Recebimento De Transferência Pix;159,00 
+3d4fe955-c3a9-4623-82c7-d9a923e79c2b;29/11/2021;Pix recebido;Recebimento De Transferência Pix;80,00 
+5c9d2bcb-bebe-4f4c-a387-bd9395e981d0;29/11/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,36 
+9df636b7-cdc0-409c-982a-3b881fa4f38a;30/11/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,96 
+78a93339-f536-4c95-bbd3-846aad42f7ee;01/12/2021;Pix recebido;Recebimento De Transferência Pix;22,00 
+e4ebe378-d9c1-4878-8b42-c9d0c92e232f;01/12/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,19 
+779a360d-337e-4b00-bd29-785dea662f80;02/12/2021;Pagamento de conta;Pagamento De Contas E Títulos;-301,11 
+88b6bc48-4c32-4854-855d-8b41bf2b7731;02/12/2021;Pix recebido;Recebimento De Transferência Pix;280,00 
+2c99d68f-0586-4bf1-9cb2-4eb98ff53acd;02/12/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,46 
+5ffc17b4-e6e2-47c0-86f0-544b1651c8a3;03/12/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+0661555f-9b5f-42e6-a9c6-a2a30f082507;05/12/2021;Pix recebido;Recebimento De Transferência Pix;40,00 
+ccb62f88-8e41-4b89-a329-2068118e172f;07/12/2021;Pix recebido;Recebimento De Transferência Pix;195,00 
+d330dc97-651c-4361-9276-4590cc48893b;11/12/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,40 
+4e8b5e74-11d4-49e2-9bf2-00dad4a2a602;13/12/2021;Pix recebido;Recebimento De Transferência Pix;360,00 
+789b14be-e0df-425a-a9db-dae5bdc6a96e;15/12/2021;Pix recebido;Recebimento De Transferência Pix;8,00 
+967fc1f3-eebf-4b69-9a2a-f73b2570a12b;16/12/2021;Pix recebido;Recebimento De Transferência Pix;60,00 
+55bba29f-15c5-4da6-83bc-b6dd58ac270a;16/12/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,28 
+5a6517c5-dcc5-43b2-9ea1-11706600fb64;17/12/2021;Pix recebido;Recebimento De Transferência Pix;247,50 
+3c9f8cb5-8344-492f-914b-68ae09f2cf0e;18/12/2021;Pix recebido;Recebimento De Transferência Pix;50,00 
+6332c467-c6d5-487c-a555-d8d95b3332fa;19/12/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,48 
+c8b99aad-75c9-4687-8004-8b4fd1c518b8;20/12/2021;Pix recebido;Recebimento De Transferência Pix;80,00 
+9a016cab-8667-44d7-9d8e-70d074d4e22a;20/12/2021;Pix recebido;Recebimento De Transferência Pix;240,00 
+1baeaab1-a630-4de1-ab15-aa3af3162625;24/12/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,36 
+45d32a75-4c91-42d1-b6f0-80e56a5cbfdf;25/12/2021;Pagamento de conta;Pagamento De Contas E Títulos;-2200,86 
+1821ba61-792e-4c50-9a00-38396038ab11;25/12/2021;Pix recebido;Recebimento De Transferência Pix;40,00 
+c8b50647-78ac-49aa-8b1f-fcf742e8d7dd;26/12/2021;Pix recebido;Recebimento De Transferência Pix;220,00 
+a26450b0-f9f2-4139-bff7-7a4e030f3381;26/12/2021;Pix recebido;Recebimento De Transferência Pix;80,00 
+3b43a7e6-260c-4c07-932b-27653044497f;28/12/2021;Pix recebido;Recebimento De Transferência Pix;465,00 
+88c886be-d262-4233-bd46-6f97295b2ef5;28/12/2021;Pix recebido;Recebimento De Transferência Pix;65,00 
+e197cdd1-a2ea-4ffb-ab29-f983ae3a09ca;29/12/2021;Pix recebido;Recebimento De Transferência Pix;65,00 
+3990019c-882c-48a7-a880-14ae9ecf50b2;29/12/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,98 
+2ece9e7c-8a0e-484d-912c-e1fdd116d679;30/12/2021;Pix recebido;Recebimento De Transferência Pix;450,00 
+cc3d1866-02f5-40f5-8134-37034231d1d9;30/12/2021;Pix recebido;Recebimento De Transferência Pix;100,00 
+c6d15577-f821-42b1-abcd-b3ed51f17842;30/12/2021;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,15 
+2c18496a-5a28-4824-bf2d-b3fe68ba4411;01/01/2022;Pix recebido;Recebimento De Transferência Pix;400,00 
+6cb9b73f-fb64-4c71-8a7f-f20afa5009ef;01/01/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,36 
+e1504d75-cbc0-487c-b4df-2b22d9a9869c;02/01/2022;Pix recebido;Recebimento De Transferência Pix;260,00 
+4ac8cdbc-a19b-4838-a1e4-d573937e8f3e;02/01/2022;Pix recebido;Recebimento De Transferência Pix;720,00 
+8a9a0a0b-bc44-47ea-b17e-b6b8950c1065;02/01/2022;Pix recebido;Recebimento De Transferência Pix;140,00 
+0a8b6fa6-4dc4-4975-91ca-2a220367fe04;02/01/2022;Pix recebido;Recebimento De Transferência Pix;100,00 
+2664fd7c-ee81-44ed-8193-6e89975164a9;02/01/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,44 
+f5121eb3-0425-4a17-ba5d-7b83a0a41b3c;03/01/2022;Pix recebido;Recebimento De Transferência Pix;140,00 
+3f56318e-a487-4e1b-9533-742b920475d0;03/01/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+61ee2b5e-e3c4-465e-8377-343fdf97acd0;04/01/2022;Pix recebido;Recebimento De Transferência Pix;14,00 
+ac99091d-c558-495e-80f1-5e57e5d690cb;04/01/2022;Renda Fixa;Aplicação em CDB;-426,78 
+a5e50397-31f7-4353-a30c-4cb075f4c988;04/01/2022;Renda Fixa;Resgate de CDB;426,78 
+ceebe4b4-c95a-4e16-9d20-0cdb4b546524;05/01/2022;Pix recebido;Recebimento De Transferência Pix;120,00 
+b4955a48-5bd5-4d7e-9318-b2793c779666;06/01/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,22 
+327b3733-8756-47a5-b527-053c8bd47686;07/01/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,10 
+42c5a110-214f-439e-9c1d-bdaf76440fe4;09/01/2022;Pix recebido;Recebimento De Transferência Pix;98,00 
+0acddb04-9484-4ab7-830c-9e9b46cbc20c;11/01/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,40 
+595a5470-bafa-4a80-8182-691205586446;12/01/2022;Pix recebido;Recebimento De Transferência Pix;10,00 
+fba8b144-6304-43fa-8108-ff36a324ddc3;12/01/2022;Pix recebido;Recebimento De Transferência Pix;120,00 
+c4dd57eb-9812-4862-a1be-b95e7982aef2;13/01/2022;Pix recebido;Recebimento De Transferência Pix;91,40 
+a8b1a435-c7af-4953-b094-444dd98893f8;13/01/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,54 
+cc0bef40-15d9-4c58-b808-9d9228db94f5;14/01/2022;Pix recebido;Recebimento De Transferência Pix;150,00 
+63b5f374-7e53-4631-85a1-536cac1afd04;16/01/2022;Pix recebido;Recebimento De Transferência Pix;60,00 
+c827809e-c8d5-41b7-be85-6082973afc6f;17/01/2022;Renda Fixa;Aplicação em CDB;-509,19 
+f6426359-ae92-4459-a74d-eabe4af055e2;17/01/2022;Renda Fixa;Resgate de CDB;509,19 
+b10538e7-59ad-408d-9dbe-f309165767b6;18/01/2022;Pix recebido;Recebimento De Transferência Pix;38,00 
+f08bee18-0489-4ceb-8323-35fe0e817712;19/01/2022;Pix recebido;Recebimento De Transferência Pix;20,00 
+8cb1bce2-82cf-4b42-8811-145400e7adee;20/01/2022;Pix recebido;Recebimento De Transferência Pix;280,00 
+ab933212-ca5f-49a8-b899-1bce4b811252;20/01/2022;Renda Fixa;Aplicação em CDB;-2000,00 
+05836e86-0087-456f-ac6e-e7fd366e4c82;20/01/2022;Renda Fixa;Aplicação em CDB;-1000,00 
+1ce87b09-e1b0-4d28-8cc5-255143f5f1f5;21/01/2022;Pix recebido;Recebimento De Transferência Pix;327,00 
+a5f15b13-bc6d-4ba7-b055-16c140df6f49;24/01/2022;Pix recebido;Recebimento De Transferência Pix;80,00 
+d2379769-2141-4dcd-9546-67b336b9b389;24/01/2022;Renda Fixa;Aplicação em CDB;-1047,13 
+dc460857-beba-470e-b550-a9e34a7fa812;24/01/2022;Renda Fixa;Resgate de CDB;1047,13 
+d8904aa5-2bc5-4af8-9f2a-292cde480e7a;25/01/2022;Pix recebido;Recebimento De Transferência Pix;600,00 
+4ddeb619-56b1-474a-a65d-1d1661f56e56;27/01/2022;Renda Fixa;Aplicação em CDB;-2000,00 
+91a57433-69c9-4610-bd7d-710c17ead3c7;27/01/2022;Pix recebido;Recebimento De Transferência Pix;174,00 
+17731efa-14ec-4efa-87c0-f9d4dcc4cb4c;28/01/2022;Pix recebido;Recebimento De Transferência Pix;65,00 
+591651c9-7c90-47bc-8860-5d7b86bac66c;29/01/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,36 
+7ccff9d6-f520-4e01-b35b-a3e4da4b2c88;30/01/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,44 
+5e3e97cc-5633-4e87-b78b-e26c16d1d011;02/02/2022;Renda Fixa;Aplicação em CDB;-3164,75 
+464fd07b-e642-4bdd-94a4-37baea33c49c;02/02/2022;Renda Fixa;Resgate de CDB;3164,75 
+63605d24-830e-43b4-9625-afe335606690;04/02/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,01 
+2fccf92d-c475-4a89-b015-00e73df6c61c;05/02/2022;Pix recebido;Recebimento De Transferência Pix;250,00 
+87f66d4b-fc5e-490a-a17f-87093e2c78e1;05/02/2022;Pix recebido;Recebimento De Transferência Pix;72,00 
+6a111c8e-ae17-4e44-88a8-964919ecdd46;09/02/2022;Pix recebido;Recebimento De Transferência Pix;15,00 
+4c05438f-f025-4dbc-9ea0-e2a423f75f53;12/02/2022;Pagamento de conta;Pagamento De Contas E Títulos;-132,07 
+525a24db-d40d-4a59-9dcd-1438f28e32dd;16/02/2022;Pix recebido;Recebimento De Transferência Pix;60,00 
+583487b8-3ab4-4267-9298-dfe53a9afe70;17/02/2022;Pix recebido;Recebimento De Transferência Pix;150,00 
+577cebdc-9aa3-4e36-b297-add01b7e2e8a;18/02/2022;Pix recebido;Recebimento De Transferência Pix;130,00 
+0fad0f7c-f1dd-4c97-be03-0e8415cf56d2;22/02/2022;Pix enviado;Transferência Pix;-305,73 
+ffa791fc-a1d1-4cb3-8eb1-96324032efba;27/02/2022;Pix recebido;Recebimento De Transferência Pix;160,00 
+086b2520-7de8-4189-8831-236bf53462de;28/02/2022;Pix recebido;Recebimento De Transferência Pix;30,00 
+a7f9e5f0-a79f-41bf-9c85-f0bbbff55fea;28/02/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,90 
+ec4e8163-04b4-49ac-be11-2d7e7317adab;01/03/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,74 
+7952fb4a-30bb-4cfd-9620-553be07e37cf;02/03/2022;Pix recebido;Recebimento De Transferência Pix;52,00 
+a34c1d04-bc8e-42a1-81bb-b69182330126;03/03/2022;Pix recebido;Recebimento De Transferência Pix;180,00 
+178ed885-2f37-404f-b764-4600c8224670;03/03/2022;Pix enviado;Transferência Pix;-508,25 
+faea3893-c25f-47ed-8f93-b8c6f78a43cb;03/03/2022;Pix recebido;Recebimento De Transferência Pix;65,00 
+444b1fd1-4173-4dc5-9da6-ba10a15a71aa;04/03/2022;Pix recebido;Recebimento De Transferência Pix;475,00 
+41be5692-b30a-412c-babb-a600ccb3cade;04/03/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,02 
+c0cfb2ad-49a8-4b4d-965b-e8f6a918d3cd;07/03/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,26 
+b76f80c7-66c4-4a4f-adaf-90b9c667bd75;15/03/2022;Pix recebido;Recebimento De Transferência Pix;200,00 
+9ff9845e-8d81-437b-809c-e044ea3676fa;16/03/2022;Pix recebido;Recebimento De Transferência Pix;500,00 
+c23f44ab-0506-435f-a1d5-9af42423306b;16/03/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,21 
+ffb6d8d0-ee29-468b-810c-693dbef5d3c0;20/03/2022;Pix recebido;Recebimento De Transferência Pix;60,00 
+e036c121-5c31-4768-8a79-c287674912ce;21/03/2022;Pix recebido;Recebimento De Transferência Pix;200,00 
+8e83f46e-34db-4dd0-b0a1-fbea08d0f25c;28/03/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,99 
+986c530e-bbed-4016-83f7-163894b3f695;29/03/2022;Pix recebido;Recebimento De Transferência Pix;175,00 
+797cf2ed-847d-474b-b465-de20e0c74682;29/03/2022;Pix recebido;Recebimento De Transferência Pix;50,00 
+a9c3b560-1398-4a7b-9f52-d1316beb6da0;29/03/2022;Pix recebido;Recebimento De Transferência Pix;15,00 
+f01a74df-d874-4986-ad66-26cda782970c;29/03/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,98 
+5c85aba2-850b-4f7e-9f15-a47d4f523e5c;30/03/2022;Pix recebido;Recebimento De Transferência Pix;180,00 
+ead27118-db2f-4c9c-9cff-26e930a1c7d6;30/03/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,94 
+60e4f650-f9da-4ade-ab5c-bf19f884d1a9;31/03/2022;Pix recebido;Recebimento De Transferência Pix;15,00 
+a4751be5-90b2-4a93-98c7-d7f751ac6e15;31/03/2022;Pix recebido;Recebimento De Transferência Pix;150,00 
+444424bc-0948-4ccd-adf6-c90137a3e9d9;03/04/2022;Pix recebido;Recebimento De Transferência Pix;400,00 
+a685dc47-e869-4e7c-bda8-5cc1ebf6fb3c;04/04/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,42 
+66223379-3728-4628-8e55-766b296db682;04/04/2022;Pix recebido;Recebimento De Transferência Pix;65,00 
+792cb3d6-3456-4af4-b314-a4a6c956b650;05/04/2022;Renda Fixa;Resgate de CDB;1570,98 
+26a1b56d-6a88-4975-a6de-a7f025bf2f84;07/04/2022;Pix recebido;Recebimento De Transferência Pix;130,00 
+1e3747d0-768c-4de7-bb90-50fd594db129;07/04/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,47 
+dd008d3f-c864-46bb-8f85-d6bbacb9103c;07/04/2022;Renda Fixa;Aplicação em CDB;-1500,00 
+d60676b8-aa17-4f02-a584-1780ce0ea57c;08/04/2022;Pix recebido;Recebimento De Transferência Pix;210,00 
+a22d9257-fea6-481c-b632-0e4e9b0178ff;11/04/2022;Pix recebido;Recebimento De Transferência Pix;150,00 
+cd12bb5a-8758-497e-b6b0-752b980349d4;12/04/2022;Renda Fixa;Resgate de CDB;524,37 
+c21ada16-130e-4411-bf26-ed48fa67bf6a;13/04/2022;Pix recebido;Recebimento De Transferência Pix;400,00 
+a27a5865-0d54-41f7-ae41-89916c77d915;14/04/2022;Renda Fixa;Aplicação em CDB;-500,00 
+cfe07373-acf2-475e-9cde-2750369c8e1f;15/04/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,43 
+90437ba2-c6a2-417b-955c-a0fbabfb6a3f;16/04/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,82 
+6128c864-7c50-4e9b-9f96-7d64ecae07ad;18/04/2022;Pix recebido;Recebimento De Transferência Pix;160,00 
+6c9efe7d-f8ae-42a4-8754-71b5fb598552;18/04/2022;Pix recebido;Recebimento De Transferência Pix;100,00 
+a412db99-c65c-431d-86fb-30edeb7b778f;18/04/2022;Pix recebido;Recebimento De Transferência Pix;195,00 
+8f4ca35d-f065-439d-99a6-79458a360fe8;20/04/2022;Recarga de celular;Recarga de celular;-12,00 
+7b05e0f7-a3ae-463f-ac6b-9244d4316fed;21/04/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,85 
+e6943e75-e255-4f34-83fd-6bea9ae59c6e;26/04/2022;Pix recebido;Recebimento De Transferência Pix;30,00 
+615d6b9f-7a7c-42a7-b25b-be72b1110e93;28/04/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,28 
+56fd68df-7abc-4151-9ac0-78b938034ce5;29/04/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,98 
+2e077e4e-f143-4285-abaa-28bf3eceb975;30/04/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,35 
+f1af8f10-170a-4c9c-aff0-2c6b0ee3ebee;01/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,18 
+7dbf6bc1-718c-43c1-aa5b-b5d15fef7252;03/05/2022;Pix recebido;Recebimento De Transferência Pix;75,00 
+d63fc145-865e-4837-8108-13571cd8f6f2;03/05/2022;Pix recebido;Recebimento De Transferência Pix;520,00 
+1d7bcadc-e3ea-4306-8d7f-f5bb376b9403;03/05/2022;Pix recebido;Recebimento De Transferência Pix;104,00 
+9f85a768-1d1a-4d95-8057-7a056b33915d;04/05/2022;Pix recebido;Recebimento De Transferência Pix;40,00 
+a084d0df-57ed-4a17-a68e-3641671e9f63;04/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,77 
+9927e5af-a030-4c40-a5f6-03995a26273a;05/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,92 
+b23a9d6f-c26a-490f-aa20-f4be1bc5c437;06/05/2022;Pix recebido;Recebimento De Transferência Pix;130,00 
+40529ee7-5665-4cf8-892b-a3cf755e6e1a;07/05/2022;Pix recebido;Recebimento De Transferência Pix;740,00 
+43507574-b127-434d-bdb3-7745350a0d68;08/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,62 
+150ee158-a779-41e2-afdc-a0bac80409ac;09/05/2022;Pix recebido;Recebimento De Transferência Pix;165,00 
+26312e6d-2d00-4226-842f-f7123bcd714a;10/05/2022;Pix recebido;Recebimento De Transferência Pix;480,00 
+c6b255a5-e59d-466c-995c-a2f2854e6cc9;11/05/2022;Pix recebido;Recebimento De Transferência Pix;150,00 
+542364d1-3a77-4c33-aae9-3ae3307fc31a;11/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,15 
+ce52a89e-05ff-4a54-8d78-273e673998cf;12/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,28 
+b75013c5-1c85-4539-a872-48825b4d823d;13/05/2022;Pix recebido;Recebimento De Transferência Pix;100,00 
+93867194-7b73-405f-a6ae-d406e50c92ec;15/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,54 
+a4e329ec-b690-451e-9cbf-4e97e2238a18;16/05/2022;Pix recebido;Recebimento De Transferência Pix;300,00 
+b1fb008f-6a8a-4d51-afc7-d261a719671a;16/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,13 
+fac428fa-796e-461f-958a-3da49c460eb8;18/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,46 
+81b4dabc-0866-4ef5-a3b4-36c5f8fdf5c8;21/05/2022;Pix recebido;Recebimento De Transferência Pix;165,00 
+a2415f84-caf4-448c-9825-685b00644c78;21/05/2022;Pix recebido;Recebimento De Transferência Pix;80,00 
+d7bf6956-f8c0-4caf-97d4-606845519e4a;21/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,01 
+51c5b94f-1827-453a-888e-b2ab007118e6;22/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,01 
+3d3995b1-acba-4f3a-95d9-ab43eb3fecd2;26/05/2022;Pix recebido;Recebimento De Transferência Pix;150,00 
+57b8c522-85c8-475d-9edf-a62799dd6ba7;26/05/2022;Pix recebido;Recebimento De Transferência Pix;95,00 
+ff4cf244-f720-4c4a-8f51-c51b1a8232c6;26/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,22 
+27677917-3a64-43d7-ba54-a1e9a4813b39;28/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,66 
+125f641d-638e-4d54-a28b-2e7a60c39b61;29/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,52 
+f24e3d5c-4329-4904-aa31-6d23faffa5ee;30/05/2022;Pix recebido;Recebimento De Transferência Pix;120,00 
+9e21ffed-369c-4d6a-9207-0b467d1faf4e;30/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,70 
+611d9618-e260-450d-a71f-8faf445bc009;31/05/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,27 
+ff0d5ff6-4822-4209-a7ba-b36d40462e88;01/06/2022;Pix recebido;Recebimento De Transferência Pix;75,00 
+37dcce38-3cb9-412f-baed-5a91109f358d;02/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,04 
+7237b872-a5bd-44f9-a79f-d5702635fb7b;03/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,40 
+bfd021af-5aed-4a52-a81e-6c8489642ac6;04/06/2022;Pix recebido;Recebimento De Transferência Pix;240,00 
+98889df0-c6f1-4da4-ae6c-d0ce34594c0e;04/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,67 
+c6898713-54d9-4baa-9452-ca4018eda790;05/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,18 
+e0b8ce2c-1718-4773-b160-b46f8355a3d1;06/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,00 
+5fdd26e0-c76e-40cc-946a-a8716bccaa34;07/06/2022;Pix recebido;Recebimento De Transferência Pix;130,00 
+1b0ec490-001e-4d02-987e-024fe384df6b;07/06/2022;Pix recebido;Recebimento De Transferência Pix;740,00 
+4f0cabc0-d1f6-4749-85d3-d01586dec724;08/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,62 
+7ecf2fb9-fbb3-4072-9877-d41bb317abd7;09/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,01 
+7f68630b-ef9c-4a3f-8f1b-a1dc3221319b;10/06/2022;Pix recebido;Recebimento De Transferência Pix;165,00 
+c718cc9e-8412-4a87-947a-f948bbc32051;10/06/2022;Pix recebido;Recebimento De Transferência Pix;150,00 
+613a7a85-0570-488e-8c30-be2767c9a3ba;10/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,70 
+bf384172-309e-472f-a267-aedcb6da6272;11/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,32 
+9bb9e343-a96e-4f05-bf45-f7b3a96f5736;12/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,30 
+565b48cc-18f2-435e-a077-f3a149c5a61f;13/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,77 
+7185e74b-8506-4b81-acd5-1727c9890e63;14/06/2022;Pix recebido;Recebimento De Transferência Pix;30,00 
+fb561f1f-22f4-4f28-9955-883dafbdbf4b;15/06/2022;Pix recebido;Recebimento De Transferência Pix;200,00 
+66aeedb4-58b6-4948-858e-4ad461ac61b1;15/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,54 
+50f8a9a5-0061-4bda-ad23-14c53ee94b79;16/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,49 
+d93b497f-fd06-4dcd-854c-635b8b71fc73;18/06/2022;Pix recebido;Recebimento De Transferência Pix;30,00 
+649f0052-3591-462c-825a-b12bbd2cc4ce;18/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,62 
+2673f2e8-4e21-40a6-a03f-dc5c5c3ecc59;20/06/2022;Pix recebido;Recebimento De Transferência Pix;175,00 
+795e9692-efbf-4aa5-990a-a59026c5905e;21/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,08 
+b027af85-872e-4311-a3af-fe9c382c1442;22/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,01 
+548329fe-32c1-4321-afb3-655de7d30c12;23/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,98 
+54fafd55-b227-449a-8312-49354544842e;26/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,20 
+4fcb6a9a-a68f-4c1d-bb77-49af68e0af0a;28/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,84 
+d82e0108-89eb-4bfa-bd27-ded8ff7a15d4;29/06/2022;Pix recebido;Recebimento De Transferência Pix;90,00 
+e0732e87-66b6-4695-9347-d0405cf2e9c7;29/06/2022;Pix recebido;Recebimento De Transferência Pix;75,00 
+16e3db99-d80d-41d5-8af0-e63ba8053766;29/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,76 
+a5d29508-9f24-4bbc-b81d-c3a2692cc3e8;30/06/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,97 
+c65416e1-3f7a-4223-8c52-93266a7a4c3b;01/07/2022;Pix recebido;Recebimento De Transferência Pix;200,00 
+f4b9047f-1147-4671-ae81-e883ed21f979;01/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,93 
+3f3b52c1-b3eb-4c1d-a172-d5602c4acfb9;02/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,04 
+9009ff38-ba94-425f-bdf2-17009da21ac7;03/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,64 
+e042b176-748b-42a4-b99d-5527e7e3aafa;04/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,96 
+a00bfefa-0d90-4edc-90cf-b3a339250548;05/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,29 
+65686f21-29ba-4e5f-b765-589c9b355d84;06/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,06 
+4881118d-9d99-4155-875c-063abfdee851;07/07/2022;Pix recebido;Recebimento De Transferência Pix;170,00 
+796293dc-340c-48af-927a-aab9a38edc2f;07/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,98 
+eb38ee2d-8113-4cb3-85fc-f6fcc78a9af7;08/07/2022;Pix recebido;Recebimento De Transferência Pix;150,00 
+391736f0-b6ba-43ab-82b4-c84bd2a77fae;08/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,70 
+377f6ac4-988e-44da-8357-ec833e1518bf;09/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,32 
+3d82de70-c5df-46a2-8daf-3fd231b926a5;10/07/2022;Pix recebido;Recebimento De Transferência Pix;50,00 
+46da063d-03ab-4d8f-a4e5-a177d5de7c71;10/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,40 
+91caa0de-41d0-4e29-baa5-1f854046db65;11/07/2022;Pix recebido;Recebimento De Transferência Pix;60,00 
+2ed3dcf3-d85a-4891-86c5-9888f1b4156e;11/07/2022;Pix recebido;Recebimento De Transferência Pix;140,00 
+627bb7fb-3fde-49ef-ada6-2fad9cc647fd;11/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,41 
+67a9aba9-efd1-4ea4-9a76-f4e411e20b25;12/07/2022;Pix recebido;Recebimento De Transferência Pix;840,00 
+1a973cc8-4573-421d-8ef0-7ccb860c9f3c;12/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,43 
+b4f57ed1-229f-4da5-b092-b41532128f96;13/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,85 
+5928413a-a238-4e27-9dbc-805167cb1710;14/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,24 
+d0ea0bfb-b269-4012-921f-c247a91294bb;15/07/2022;Pix recebido;Recebimento De Transferência Pix;15,00 
+a7c992e7-79cd-484a-a860-8e12695264d5;15/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,22 
+4a156c63-3848-463d-8255-ffe09220628a;16/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,73 
+c08a4e8b-6590-4964-ba35-94190d725858;17/07/2022;Pix recebido;Recebimento De Transferência Pix;80,00 
+d4464155-9aa9-43d2-a5d5-11f7ec309147;17/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+51540f03-7540-4161-9943-5ebf81382108;18/07/2022;Pix recebido;Recebimento De Transferência Pix;160,00 
+4aa565e5-0de0-4c32-aaa1-d8f9994999e3;18/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,62 
+c63afeb7-306b-42e7-a548-95647b3d5722;19/07/2022;Pix recebido;Recebimento De Transferência Pix;75,00 
+c5c9988e-4dd0-4502-9b20-e59f9ebc8695;20/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,67 
+32ebad44-36bc-49ca-b45a-c2eb776f8707;21/07/2022;Pix recebido;Recebimento De Transferência Pix;60,00 
+78004d94-5cb2-4da1-9bd6-fc19aaf35f35;21/07/2022;Pix recebido;Recebimento De Transferência Pix;175,00 
+0ce9bccf-9bf9-4853-a911-5ad5e066ab72;21/07/2022;Pix recebido;Recebimento De Transferência Pix;327,50 
+d3946de9-74d4-4de5-8464-4fa05592a0fc;21/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,10 
+1d7c9a0f-c025-404d-a5ea-78c1b35768e1;22/07/2022;Pix recebido;Recebimento De Transferência Pix;150,00 
+34ac8a1f-9b37-4a41-b82d-5cd6e634f3af;22/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,01 
+50a2ce40-6e09-41c9-8e72-b74a00a27b03;23/07/2022;Pix recebido;Recebimento De Transferência Pix;680,00 
+6f312578-3a40-4b70-9754-ebd54d5f77ea;23/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,99 
+a5f6ee19-c7ae-4440-9b93-d7a0334252e9;26/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,20 
+048fb171-19d5-4f0f-bb3c-5b28d7a78432;27/07/2022;Pix recebido;Recebimento De Transferência Pix;95,00 
+059734ad-20bc-4396-bd6a-5e37eb69caec;27/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,02 
+11afc737-7232-4bb1-ad36-3b6d2b37cbe4;28/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,87 
+00b6a32e-5253-48ce-873d-f03df4ddfa62;29/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;8,14 
+3041a605-17e1-417a-b3c9-c32333cb8cfe;30/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,01 
+4cf7d737-ec4c-424e-8d4c-f19283a8e33e;31/07/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,33 
+e28db8e8-5adf-4b64-9277-ba3f885d093a;01/08/2022;Pix recebido;Recebimento De Transferência Pix;15,00 
+d930c89f-02f2-4b06-8faa-6e4d18d42813;01/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,22 
+fd597e4d-016d-4144-b8ad-22ca34d68b93;01/08/2022;Pix recebido;Recebimento De Transferência Pix;150,00 
+42208b62-42a0-4d7a-823d-dde0b8e1c475;02/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,04 
+75a7dfe6-33cc-4017-b345-1158caa2efa0;03/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,64 
+5b321f8d-4d9d-44be-9517-eabcec971ab0;04/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;8,07 
+8044d89d-4154-449c-857a-a0370d786685;05/08/2022;Pix recebido;Recebimento De Transferência Pix;140,00 
+74429e48-481c-4eff-89df-60eb70713d2d;05/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,44 
+27ab26ae-c86a-4896-9121-96994c39704b;06/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,19 
+7cb930f0-ead5-4e73-9ee0-8ea7dec22988;07/08/2022;Pix recebido;Recebimento De Transferência Pix;400,00 
+0ca12ab7-d13f-4db2-8760-70e29263e3f2;07/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;8,70 
+a7f4fd38-c5b9-4114-b6ea-d372a3d3679f;08/08/2022;Pix recebido;Recebimento De Transferência Pix;530,00 
+85b7f3cf-02cb-436a-8c7c-b6403772bdb2;08/08/2022;Pix recebido;Recebimento De Transferência Pix;140,00 
+9f60b75e-092a-4858-a475-25ac55504184;08/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,01 
+445923a0-e7a4-4ff7-b742-12e95b560711;09/08/2022;Pix recebido;Recebimento De Transferência Pix;240,00 
+cbddbac7-8f53-41df-9efb-3ac2a284d9ec;09/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,59 
+cfc842c6-5f6f-4271-b17a-c6f9b95ddc09;10/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,63 
+42cc22cb-5c5a-434c-92f1-d827a238f751;11/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,71 
+9528962f-b620-42ae-b74e-23b90a1dafb4;12/08/2022;Pix recebido;Recebimento De Transferência Pix;15,00 
+c7d2caef-8614-48a8-ac54-0512ac229a56;12/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;10,56 
+5ecd3d47-bd28-49af-b0f1-5a0d82997962;13/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,88 
+c3387d39-7c42-45c6-b675-9d995f3633c2;14/08/2022;Pix recebido;Recebimento De Transferência Pix;160,00 
+79362757-c67b-4ea1-b980-70407d18af8c;14/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,25 
+bb266c1e-5017-4ae2-a34f-42a645dbf95c;15/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,48 
+20612c68-3a9e-4dd4-bc5d-7e36ffd8f12c;16/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,98 
+08d7b823-534c-4e5c-8422-ddd22bae9ccd;17/08/2022;Pix recebido;Recebimento De Transferência Pix;125,00 
+dc434e20-6991-4882-b8fd-377818561a57;17/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+073827a5-096b-4368-a3dd-3a1437b1ffaf;18/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,83 
+40143c5a-0320-436e-afbb-cac72f17b180;19/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,62 
+a093ae49-ad16-4955-b653-1495282065fb;20/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,74 
+080af5b0-83c2-4fb2-abec-fcc43404a8df;21/08/2022;Pix recebido;Andre Hachisuka Sassaki;60,00 
+336f1fa9-5fb9-4467-bc65-93da60c38c74;21/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,87 
+a5c9749f-3d0e-4907-82d9-2b2f31bba07b;22/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,26 
+47665ef1-f1f7-4242-9ade-b242b31c6a8d;22/08/2022;Pix recebido;Katia Yurika Miyauti Dos Santos;80,00 
+47f40c28-75a8-4b7f-8230-be65c0a60259;23/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,06 
+c7fc788c-38ca-4b26-9dd9-43ce57f52e14;24/08/2022;Pix recebido;Vitor Hugo Souza Santana 41324622857;30,00 
+d25ea3d7-9e92-4d95-b916-c6217ccb07d6;25/08/2022;Pix recebido;Caio Bentes Chaves E Silva              ;175,00 
+ed88b167-da71-409d-ad0b-abf74106b499;25/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,67 
+d98b0f76-f12a-4a86-8228-ece5490c76ea;26/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,30 
+5676ea44-25f1-4253-9ef8-65184b6599f8;27/08/2022;Recarga de celular;Vivo - (18) *****-4912;-35,00 
+6dcdee6f-017e-468e-ab77-f6d1d8895f35;27/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,81 
+394d2e61-be0b-4648-913c-4c9c37eaa37c;28/08/2022;Pix recebido;Elisa Maria Souto Mayor De Morais;120,00 
+a3312d2f-dd86-4956-98ce-90f4a730fe32;28/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,09 
+c0ef1794-b05c-495e-b444-6864d9f68428;29/08/2022;Pix recebido;Rodrigo Kawaguchi Sakaguti;90,00 
+63dc2f57-1b51-40c3-b34a-9f76c8bad948;29/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;8,50 
+3084a765-0573-443c-b247-f4412ade54d7;30/08/2022;Transferência Enviada;Transferência Para Outras Contas;-1000,00 
+8308c067-1715-4a33-9431-089e1439d662;30/08/2022;Transferência Enviada;Transferência Para Outras Contas;-2000,00 
+bea45e65-59ef-4660-9d19-4c5575c02971;30/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,23 
+b2ccf953-3968-44b8-8998-d4d01e27ff18;31/08/2022;Pix recebido;Mercia Regina G Santos;283,00 
+e69781ad-c2a1-4a34-afdf-18767015ecdd;31/08/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,38 
+1752b404-c45d-49dd-be48-57134dc69021;01/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,74 
+14d4123b-6f17-4cb8-ba9f-acbf1848f998;02/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+99aa7371-3a5a-442b-8452-8301adb1c59e;03/09/2022;Pix recebido;Thiago Granja Belieiro;150,00 
+d8d418a3-66b5-44fb-ac57-b35d24c7ee0c;03/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,90 
+9ebd4ecb-5209-41fb-95cf-e17aa04c7fff;04/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;8,43 
+1c1e5e6e-3253-45c4-8eee-9d9a20d57ec8;05/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,63 
+9645e31d-723e-4f40-bf97-f0c16d83c1f4;05/09/2022;Transferência Enviada;Transferência Para Outras Contas;-1000,00 
+6e824004-0c58-4ae8-9223-c85108eb1b47;06/09/2022;Pix recebido;Pedro Henrique Andrade Rodella;175,00 
+212d6297-384b-49f9-a1bd-3372450d490b;06/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,19 
+d9365cd2-ed66-4107-aaa3-b5570525dd3a;07/09/2022;Pix enviado;Maria De Fatima Camacho Scombatti;-400,00 
+639fa9ab-f0ba-4581-ae79-314860b85e3a;07/09/2022;Pix recebido;Maria De Fatima Camacho Scombatti;400,00 
+7f602cdf-5e9d-40a9-bc7b-69ca9a7db0cd;07/09/2022;Pix recebido;Antonio Cesar Pironi Scombatti;400,00 
+49687909-d36a-4d4c-8e6a-d25801727259;07/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;8,70 
+415573bc-8aba-41ec-8abb-96af71e9dcac;08/09/2022;Pix recebido;Camila Mitiko Yamada Nakashima;65,00 
+b05567cd-2384-442f-b523-3bca58a33c28;08/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;12,03 
+39f0baf3-2208-4eac-97d7-32a12f3c9ee2;09/09/2022;Pix enviado;Cintia Yurie Yamada;-5000,00 
+5228264e-80e8-4fdb-b6e3-5017877ccabb;09/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;9,64 
+b2201bd0-c682-49be-9352-cdfc3d940b49;10/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,69 
+9d79246a-33e3-44c8-8971-e590822e2eec;11/09/2022;Pix recebido;Nilton Akamine;60,00 
+5b7fe40c-a5a3-4cfa-9ac5-c09e07e89ae5;11/09/2022;Pix recebido;Cristina Sakuraba Oumura;60,00 
+d7d36662-fac8-4fc9-99db-e54a73fe6f21;11/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,75 
+83c58eb8-7e6a-4e2c-b709-cf725a05ab26;12/09/2022;Pix recebido;Katia Yurika Miyauti Dos Santos;75,00 
+88b7701e-c353-424c-b1e9-f053ea15ce3c;12/09/2022;Pix recebido;Cintia Yurie Yamada;24,03 
+84c23856-a615-41b8-94dd-6d803dd04b07;12/09/2022;Pix recebido;Cintia Yurie Yamada;318,87 
+51e46884-4eac-4046-be6f-9fa6f679a360;12/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;10,76 
+f0f876f4-c806-40eb-ac3c-1718cf3114b7;12/09/2022;Pix recebido;Edilaine Tiraboschi De Oliveira Bertucchi;155,00 
+0c86f50b-134c-4dc9-b689-e95ae0d42d0a;13/09/2022;Pagamento de conta;Hercosul Alimentos Ltda                           ;-2133,81 
+d3326a9b-e1d5-4b23-a49d-f90c0f719bf8;13/09/2022;Pix recebido;Vitor Hugo Souza Santana;65,00 
+8bf3d2b4-f272-44d6-87fe-14e3ea5a514c;13/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,88 
+ca20e40c-859c-49d1-9e56-cc9099312dd8;14/09/2022;Pix recebido;Lecil Almeida De Prosdoci;170,00 
+494a8347-c320-4a4a-bded-4a58fb4691a1;14/09/2022;Pix recebido;Ricardo Christian Kenji Hayashida;40,00 
+c7a5b146-9b62-409c-ad74-27a265d8b1c1;14/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,25 
+6248a220-74c7-4ccb-b3af-12cce553d196;15/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,85 
+c32bff25-bbde-44eb-9f52-d2684525fbcc;16/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,04 
+ada2e813-15da-401d-9ade-e3393edc0c26;17/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,09 
+97ae96ab-661e-40ee-b3c9-2d649cfc1867;18/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,87 
+86c9eada-c18b-4d9d-ade4-905914967c95;19/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,63 
+a62ad075-47c5-49d1-a041-0fefd0791a2a;20/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,74 
+635cbc37-41e1-472e-8c51-c0cd2db34692;21/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,87 
+bd73e2a7-41c4-4c67-84a4-ddde6dd9700f;22/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,50 
+c7dd30cb-7daa-456c-a231-b20585c5e63d;23/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,08 
+454a0b77-474d-4fd4-8bb0-4a9a8cc4611e;24/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,25 
+4a135956-a57c-470a-a9af-ffe9c4b49b8a;25/09/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,83 
+0b098a9c-d40b-456b-b9fb-2ba843e3c688;26/09/2022;Pix recebido;Navarro & Almeida Prudente Ltda - Me;150,00 
+8df32122-06e2-42e2-b915-3d074849c021;27/09/2022;Pix recebido;Mario Yukio Sakuraba;350,00 
+2ecc07c8-db4b-4297-ade9-8398e341b463;27/09/2022;Pix recebido;Elizabete Alves L F Inoue;160,00 
+b3b9fc61-d11c-4b52-8692-b1dcb0443e15;01/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,52 
+d7734772-639c-4145-8a4c-09601cb62e0a;02/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+3e6cb026-10a7-45d0-937b-e6f3f492f856;03/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,90 
+8b693159-205a-4d99-99f9-30a8fa7156da;04/10/2022;Pix recebido;Eider De Oliveira Lima;120,00 
+8a4634e0-056f-4882-9029-f933718bfc64;04/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,79 
+a1c3c802-c11b-4079-932d-13f2421cc703;05/10/2022;Pix recebido;Livia Graziele Enrique Santana Petroline;175,00 
+447f6d3a-75c9-49e6-8c7a-80976a9cfed6;10/10/2022;Pix recebido;F L Hadania Me;150,00 
+5d7f931e-8444-401b-b60f-d34d664c4332;10/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,69 
+b5d5a9ff-e2ab-4196-bddb-fa9dc212db6e;11/10/2022;Pix recebido;Vitor Hugo Souza Santana;30,00 
+7c0b198d-2dd6-4269-b05a-57e3e5b30744;11/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,75 
+beba2ecb-2962-46d4-b514-d113d9ac61f0;12/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,42 
+5fccdf34-d6d8-40ba-aac9-49d8b2f30014;14/10/2022;Pix recebido;Tathiana Takara;270,00 
+a498efe4-292a-4d8d-b009-08a097ea3549;14/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,99 
+abb38146-dc3c-43cc-9aa8-a857c1635014;15/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,89 
+3786f19b-d77f-428f-8523-18626e52a4ed;16/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,09 
+dd47606e-57b4-4f69-9e10-8a64c1bf83d5;17/10/2022;Transferência Enviada;Cintia Yurie Yamada;-2000,00 
+87a1378d-fc91-4dee-999c-0c0e083f3968;17/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,09 
+f9957cf3-084e-4d05-ae89-912d6be9d3ae;18/10/2022;Pix recebido;Edson Luiz Bertucchi;155,00 
+e09e82c6-f4dd-4dbd-9a47-16e5ca611062;18/10/2022;Pix recebido;David Ribeiro Farina;160,00 
+4947a321-5fa8-48ab-be7d-8f590a9893ad;18/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,87 
+830c96e5-7466-4a36-9d4e-452c90cfccfc;18/10/2022;Renda Fixa;Resgate de CDB;1698,76 
+2e065f5c-fd21-41f7-afda-1113bd2bc232;19/10/2022;Pix recebido;Cristina Koga Fukumoto;350,00 
+4a000de5-f263-4dea-b8bc-4a32eab3d830;19/10/2022;Transferência Enviada;Cintia Yurie Yamada;-2000,00 
+cffaba94-cbcb-460b-99c9-d7f55b8b8e2e;19/10/2022;Pix recebido;Magda Mitiko K Yamada;1000,00 
+67cef7af-04aa-42d0-b37f-c5a1c1fc2b5f;19/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,69 
+151d87cc-6675-4fa7-9a0e-a69d3895989c;20/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,76 
+c454b4dc-2b8f-4e86-be8f-9c4907824e27;21/10/2022;Pix recebido;Jose Setsuo Sumida;150,00 
+1f9f6cf2-d787-48a8-96cf-fc4ca91f19e6;21/10/2022;Pix enviado;Cintia Yurie Yamada;-2600,00 
+f4c98636-9b4c-4d06-8d3b-66869ecb6927;21/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,92 
+c25ce877-7e31-4b1f-961c-d1c7770b385f;22/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,53 
+752adac8-0c68-4759-bbe9-4b22b1075e59;23/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,10 
+a3f62d47-4cbb-4aab-bc20-423c4c3efdf5;24/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,25 
+db307605-7958-43d4-a091-49bf2a4ac57d;25/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,83 
+559e2c9f-7310-4d0f-bb49-dd9e7d1fcdfe;26/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,30 
+f736c9f1-fea1-4b6a-ace8-e51b28c39973;27/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,23 
+1b9d684c-05a5-46a0-a21b-7b658f43fa91;28/10/2022;Pix recebido;Mercia Regina G Santos;75,00 
+6f94b4ba-d94f-4789-850e-e8d964ac05c1;28/10/2022;Renda Fixa;Resgate de CDB;1135,42 
+437ac861-6721-4706-962f-a19c0ecd4942;31/10/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,74 
+27bd558c-978f-47af-9e65-31ab1197e2fb;01/11/2022;Pix recebido;Satiko Hatsuka Kawaguchi;170,00 
+9d512389-1e44-44a2-b5a8-50530ada7b13;01/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,78 
+07321513-e3a8-4791-bb01-707d92fb5d39;02/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+dd3fe767-e4f6-4465-beb6-41604b8496ce;03/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,01 
+d6d99ee7-1add-494d-a665-3d899176d7a6;04/11/2022;Pix recebido;Karolayne Danielle Meira França Lourenti;15,00 
+b09137cf-3b96-466f-9ef9-951e58b74d69;04/11/2022;Pix recebido;Pedro Henrique Andrade Rodella;150,00 
+e3166485-90a1-4974-b77a-3bb54051f683;04/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,82 
+656320fd-bd71-4fd8-b18a-66df99288d42;05/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,45 
+23499e50-bf5b-4a8f-8351-cc3ac2162da6;07/11/2022;Pix recebido;Cristina Sakuraba Oumura;150,00 
+f5374aff-d53f-4744-b2f0-ed89895ba647;08/11/2022;Pix recebido;Vitor Hugo Souza Santana;10,00 
+1ee35728-0741-432c-ac51-4a27dc13b055;09/11/2022;Pix recebido;Maria A Da S Alves;75,00 
+a0de73e1-fef6-418a-bd7c-00e695f76018;09/11/2022;Pix recebido;Lecil Almeida De Prosdoci;179,00 
+8d6ac155-1e86-4f2b-8cf1-77dd29103214;09/11/2022;Pix recebido;Marli Oki;400,00 
+ee057c97-3477-44b7-bb91-045d68a8f93e;10/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,99 
+489848ba-a4cd-4c5b-ac45-1c53fdd22ba1;11/11/2022;Transferência Enviada;Cintia Yurie Yamada;-1200,00 
+a24b1edc-4517-4bab-bddd-6cd8c7de2c46;11/11/2022;Estorno Transferência Enviada;Fernando Sato;1200,00 
+561888d4-6529-45a3-84de-e60e1c9d4602;11/11/2022;Transferência Enviada;Cintia Yurie Yamada;-1200,00 
+a24b1edc-4517-4bab-bddd-6cd8c7de2c46;11/11/2022;Transferência Enviada;Fernando Sato;-1200,00 
+4f3054bc-f842-4d83-acc5-0cbfc8f40438;11/11/2022;Estorno Transferência Enviada;Fernando Sato;1200,00 
+4f3054bc-f842-4d83-acc5-0cbfc8f40438;11/11/2022;Transferência Enviada;Fernando Sato;-1200,00 
+1b6da2cd-ed92-43d8-a2a3-96520d849643;11/11/2022;Estorno Transferência Enviada;Fernando Kasuyuki Garcia Sato;1200,00 
+1b6da2cd-ed92-43d8-a2a3-96520d849643;11/11/2022;Transferência Enviada;Fernando Kasuyuki Garcia Sato;-1200,00 
+50c036b1-375e-4d3e-ba6a-9684752b15b9;11/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,04 
+415f33ed-1457-42e3-b9ee-f6cbae74556c;12/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,42 
+d534f817-61d5-4b38-89d1-2ad906d329bd;14/11/2022;Pix recebido;Caio Bentes Chaves E Silva              ;175,00 
+ef481207-c551-4c59-a39b-23802d31058d;14/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,83 
+f3abe613-fd6c-4a20-9537-5e3619ca8eaf;16/11/2022;Transferência Enviada;Cintia Yurie Yamada;-30,00 
+7f7df863-b355-49dd-b459-74289206a637;16/11/2022;Pix recebido;Vitor Hugo Souza Santana;45,00 
+6e1583a3-b9f4-4ba8-b104-f00e412305e4;16/11/2022;Pix recebido;Thiago Granja Belieiro;54,00 
+3223df22-85b6-4af1-9146-d56db3c6d52f;16/11/2022;Pix recebido;Jose Setsuo Sumida;150,00 
+7ab548f4-f3b7-48e4-b2cd-3f8214904924;16/11/2022;Pix recebido;Eduardo Petroline;175,00 
+fdcbf23d-89b7-424b-943b-3f23c69ad8b8;18/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,36 
+0e923079-2576-4c30-8007-72573aba732b;21/11/2022;Pix recebido;Edson Luiz Bertucchi;155,00 
+71cdfd55-6523-4cff-b673-0b98bf9574f4;22/11/2022;Pix recebido;Cintia Yurie Yamada;2189,38 
+9f20991a-208f-4aee-a183-9f920cc0bc9f;22/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,53 
+758b850b-ce08-493c-91cf-b9d975e3e89e;23/11/2022;Pix enviado;Daniela Cristina Yamada Oliveira;-100,00 
+38677f7a-7ec8-4d89-b130-3828b467b016;23/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,10 
+635ff818-c897-4ed8-90d9-87220a4f3098;23/11/2022;Renda Fixa;Aplicação em CDB;-2000,00 
+834b894c-ed8e-41fd-8a7f-bcb08a1a42cf;24/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,29 
+1abcea23-5613-463e-b8f4-80f9da2de4f5;25/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,88 
+19b317d0-5fc6-492a-9aaf-37084d218b3b;26/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,31 
+a2053c39-0dc3-4b09-8958-c1358486d5e7;27/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,27 
+0060f929-b979-4952-b94a-27ed71a8046a;28/11/2022;Pix recebido;David Ribeiro Farina;160,00 
+12c11ee3-81fa-4b94-8023-55ca204c1fb4;28/11/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;10,05 
+ef37e6d5-5d1f-45f4-8edd-5161a7981b30;29/11/2022;Pix enviado;Vanessa Siqueira De Souza;-50,00 
+b7466a32-f447-451b-9466-48c2bc8b77ac;29/11/2022;Recarga de celular;Vivo - (18) *****-6336;-35,00 
+1919d93e-2dd3-4e3c-bda4-3d5d0f9c341e;29/11/2022;Pix recebido;Evdokie Wehbe;300,00 
+7a1aed3b-2074-46db-98fc-557580b15138;30/11/2022;Pix recebido;Luisa M De Oliveira Lima;140,00 
+2191f902-2e7c-499f-8e9b-2e1a7319dc7c;01/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;8,99 
+021b5e51-b42d-4e4b-92b2-d35c5ec0f983;01/12/2022;Pix enviado;Cristiane Taveira Lima Onishi;-150,00 
+2b68a0e3-a159-4de3-8778-70b4e0fad714;02/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,05 
+0b24f49c-e9e2-4256-8de2-b4bbac92f4a9;02/12/2022;Pix enviado;Cintia Yurie Yamada;-2000,00 
+f33e2883-afe8-4912-af36-9e4fb1da9cb7;02/12/2022;Transferência Recebida;Cintia Yurie Yamada;3168,69 
+f4f4747a-6abf-453d-9bca-40ccf5081908;03/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,06 
+2b56fe2a-81b6-4910-b79e-69946dd1f442;04/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,23 
+71064031-4b92-425f-a1fa-971fc54f1652;05/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,43 
+4783d2ba-c0d2-48f5-84af-d1c5cc3ee188;06/12/2022;Pix enviado;Cintia Yurie Yamada;-1390,29 
+b027d58c-c3c6-4cb8-9b0c-2b5e112f7da5;10/12/2022;Pix recebido;Marina De Lima A M A Deangelo Negocios Imobiliari;50,00 
+4016967f-9528-4bcb-b116-084d4f17d4dd;11/12/2022;Pix recebido;João David Ferreira Leite;20,00 
+568758c1-390a-4614-a86c-f29110b6b007;11/12/2022;Pix recebido;Vitor Hugo Souza Santana;30,00 
+eb6312cb-7660-46c3-8816-362c6fe6d7cd;12/12/2022;Pix recebido;Thiago Granja Belieiro;72,00 
+b6dde8b7-1829-437a-a062-0fadf5879dca;12/12/2022;Pix enviado;Cintia Yurie Yamada;-270,00 
+157b758f-d0af-4ccd-acf6-0089f4b2cb4f;12/12/2022;Pix enviado;Cintia Yurie Yamada;-1169,32 
+47ece4f1-ab5e-4243-a705-10a3f914a1c5;12/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,42 
+c455c637-009c-42d9-b298-18524c48af9f;13/12/2022;Pix recebido;Cintia Yurie Yamada;879,38 
+12f3265e-daf8-493a-8dbf-3741c2993495;14/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,29 
+d76d19c7-1489-4867-9bd7-c13f1fccf2be;16/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,27 
+634801c4-50a4-4651-879d-70e9ae03b81f;16/12/2022;Pix recebido;Ana Carolina Itami Higashibara;350,00 
+a35e32b5-87bd-4307-881e-153651be0d25;18/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,41 
+131381fd-8250-4444-98d6-326d0c0af101;19/12/2022;Pix recebido;João David Ferreira Leite;20,00 
+3d9cf2a6-aab8-45c5-8e2b-2d8cc59fbb2e;19/12/2022;Pix recebido;Mercia Regina G Santos;243,00 
+20770415-5c78-46c5-ad68-63ebd32a90d6;20/12/2022;Pix recebido;Luisa M De Oliveira Lima;80,00 
+3feeef62-03d9-48c0-8dd0-21a957d5ecca;21/12/2022;Pix recebido;Marco Antonio Assanuma 00431485909;150,00 
+3802e0fe-ee93-46c5-92fd-414a3b64da9f;21/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,29 
+f45c91f8-236b-421f-ae13-f08b2d4b7582;21/12/2022;Pix recebido;Tathiana Takara;270,00 
+2f0b1f11-7721-47eb-9f4f-43bfcc7b0967;22/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,41 
+a184b749-57e4-4218-b50b-54439b89d209;24/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,29 
+22a405d8-5915-47c9-8eae-463e123a027d;25/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,94 
+18089c28-e7e7-4611-8ad3-b29115ecd062;26/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,31 
+2c870aca-2a16-4aac-8bcf-8d3c66232c06;27/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,27 
+11c40528-caaf-40bb-ae9a-a178392d6343;28/12/2022;Pix recebido;Vitor Hugo Souza Santana;65,00 
+342c0ec2-4504-4284-a148-040959a54306;28/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;11,51 
+eea50570-10c3-4cb8-842a-4c2cfe1e719a;28/12/2022;Pix recebido;Marli Oki;500,00 
+5e35a56a-6f5a-4961-9bbd-08cdd704a583;29/12/2022;Pix enviado;Cintia Yurie Yamada;-5000,00 
+1aa24d2c-0299-48f8-99ad-5db2154f8fc5;29/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,78 
+1d8895b4-cac7-47fc-931e-b983eb207284;30/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,16 
+93c1a871-ffac-4820-84be-48acf1a3d18d;31/12/2022;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,77 
+b823742b-c01d-432a-b963-4bf29a60c41d;01/01/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,05 
+754aee9a-097e-4eec-b35e-c050a81c59d6;02/01/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,95 
+0e678523-7b98-47c4-94f5-74e2debbd075;02/01/2023;Pix recebido;Eduardo Petroline;175,00 
+87c992ba-9697-45f2-b003-dbb6db7fac27;02/01/2023;Renda Fixa;Resgate de CDB;479,59 
+16c3d786-7aad-4d0d-a689-c4135c32180d;03/01/2023;Pix recebido;Renato Kenji Akamine;160,00 
+03502994-3711-432d-b95b-ed1aa89ef644;04/01/2023;Pix recebido;Shemara Sawae Oliveira Iamada;325,00 
+826c0124-35d6-4cf4-b817-037d251c6585;06/01/2023;Pix recebido;Marcos Rinaldo Beppu;225,00 
+e6aed529-aaf5-4b5d-a889-5cc92b01bc5f;06/01/2023;Pix recebido;Pedro Henrique Andrade Rodella;175,00 
+4ed11936-2f8a-4edb-be2e-7fc6833787f1;08/01/2023;Pix recebido;Cristina Sakuraba Oumura;75,00 
+5460cf45-ae58-4ec8-8316-fb312fff461d;09/01/2023;Pix recebido;Ricardo Christian Kenji Hayashida;450,00 
+acffd2b2-250b-444e-a0e1-0c8d5c90ab5b;09/01/2023;Pix recebido;Eunice Almeida De Lima;550,00 
+62340e8d-034a-4b81-ba3f-3ba559a95eab;11/01/2023;Pix recebido;Adávio Freire Sangirolamo;990,00 
+d77cf53b-b654-4906-9ea6-c85df5971a2d;11/01/2023;Pix recebido;Edson Luiz Bertucchi;185,00 
+8457c367-c2b3-4cc8-b2bc-6d31993ccb40;11/01/2023;Pix recebido;João David Ferreira Leite;40,00 
+5c675009-f353-4529-854a-5e96c1ef4495;13/01/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,31 
+bb39d45e-65fe-4f27-bcf3-df1b8e94ea88;13/01/2023;Renda Fixa;Resgate de CDB;573,03 
+54eeb32d-2a13-490b-9012-c216c5ea5cb3;14/01/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,32 
+1a86d2f6-56f0-449e-9c9c-99fa353aae02;16/01/2023;Pix recebido;Eduardo Petroline;125,00 
+8568a26e-25b8-4de1-ba60-d0a8c563c0e4;16/01/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,21 
+b66b25a5-daec-49c1-944c-60734b873ced;16/01/2023;Renda Fixa;Resgate de CDB;2249,55 
+aedc1bc8-14f0-40e8-824a-f7bc0a27342b;18/01/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,41 
+7989eec8-2e1a-465c-9f92-a2e5fe964024;19/01/2023;Pix recebido;David Ribeiro Farina;175,00 
+46747f9e-74b2-4396-a704-d7cb0f62241d;19/01/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,23 
+411cd62f-7abb-4765-be45-c4f148d77386;20/01/2023;Pix recebido;Adavio Freire Sangirolamo;30,00 
+2a3d9500-3ce5-4d8b-a26c-5edbd3202e35;20/01/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,40 
+63d2a86e-9a18-4a74-90ad-fcb83aaab391;20/01/2023;Renda Fixa;Resgate de CDB;1179,38 
+bd6c47ec-6987-4282-a284-e3306d940a9b;20/01/2023;Renda Fixa;Resgate de CDB;1150,10 
+fd67c588-2f30-4ae3-b541-6127cf0600b7;22/01/2023;Pix recebido;Maria De Fatima Camacho Scombatti;760,00 
+fca79fd9-641d-41d1-b8cb-137dee2cdfb7;22/01/2023;Pix recebido;Thiago Granja Belieiro;54,00 
+a84a2bf3-f8bd-4321-bf64-296fa54a3cad;23/01/2023;Pix recebido;Eduardo Petroline;175,00 
+ece1d8b3-dcdd-451a-b653-e44a462aeffc;23/01/2023;Pix recebido;Jose Setsuo Sumida;325,00 
+03eb6152-d548-410d-b8b0-d9d30977992c;23/01/2023;Renda Fixa;Resgate de CDB;2251,38 
+da1038ff-b2a8-48ce-8d42-6a1b5242506e;24/01/2023;Pix enviado;Cintia Yurie Yamada;-326,33 
+2ff62708-08f3-46f2-b240-2f81260cd457;25/01/2023;Pix enviado;Roberto Massao Onishi;-750,00 
+4a3f008b-ef8b-440a-836a-a3e412f0719c;30/01/2023;Pix recebido;Pedro Henrique Andrade Rodella;175,00 
+0cf9dffa-9722-4c1b-b00a-fb5cd22c08e5;30/01/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,17 
+8706d9a9-8676-4d93-b72b-c639fa152eaa;30/01/2023;Pix recebido;Cristina Sakuraba Oumura;100,00 
+6989fff2-6e0a-49cc-b0f3-a621a3330fd6;30/01/2023;Renda Fixa;Resgate de CDB;3566,68 
+fd379fb5-0dc2-47de-b9c1-eeb0bc77cbd8;31/01/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,77 
+060930cb-ad7c-4f74-a5d8-2a1d7dc6ce40;01/02/2023;Pix recebido;Andre Hachisuka Sassaki;125,00 
+7d88f097-d718-4127-921e-2d55e1509f9a;01/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,05 
+a613a25d-a55f-4e49-ab65-4c34380b3d0d;02/02/2023;Pix enviado;Fernando Kasunori Otuzi Sato;-3191,00 
+cbdffbce-3c7d-4ed0-938b-b9e018e5117c;02/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,46 
+c516a07d-53f6-47f5-9a60-f5c9f5e8623a;03/02/2023;Pix enviado;Amanda Yaeko Yamada;-200,00 
+326833e7-4eb7-4e70-ab6f-73fc65e5da44;03/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,33 
+004853d2-83c5-40aa-83a8-a6d0819c14da;04/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,70 
+934a7acd-5687-4885-a72d-34e1f01e30a0;06/02/2023;Pix recebido;Cristina Sakuraba Oumura;125,00 
+8b8d8b9c-e48a-4631-9309-3c72932649a6;06/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,32 
+49453bff-c61a-4096-85b0-e454bfffae3d;07/02/2023;Pix recebido;Thiago Granja Belieiro;54,00 
+e7ba37f8-24c2-4aa7-a2a3-1231a03e8099;07/02/2023;Pix recebido;Magda Mitiko K Yamada;540,00 
+c357bbc2-6fb5-4514-a5f2-06b5da559592;09/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;8,93 
+5882fd66-bead-4e1e-8bec-7dbdacdfc148;10/02/2023;Pix recebido;Mercia Regina G Santos;97,00 
+79873a80-8ffe-4183-94fc-748b44f0fedb;10/02/2023;Pagamento de conta;Unimed P Prud Coop Trab Medico;-538,85 
+26d03311-b017-4cc7-b4fc-1f0a14eb130c;10/02/2023;Pagamento de conta;Pm Presidente Prudente;-256,00 
+9fda791f-8a93-4b3f-b260-269562f89247;10/02/2023;Pagamento de conta;Pm Presidente Prudente;-3777,85 
+b7e7f04d-fec0-4313-b000-b9ebb7635d34;11/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;10,09 
+0441bb1a-c683-4d71-a008-22153ae014ed;13/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;12,13 
+c43b496d-a354-4b0a-89c6-7d4604068c99;14/02/2023;Pix recebido;Nelson Kheijy Yamashita;200,00 
+25e94e71-6eb6-4a3a-90d1-1dc6445b6c6f;14/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,32 
+89234626-5217-4e56-9fec-18ff9d0f48aa;15/02/2023;Pix enviado;Telefonica Brasil S A ;-129,99 
+b1f64099-4213-4ef5-836a-d986240222bd;16/02/2023;Pix enviado;Fernando Kasunori Otuzi Sato;-530,00 
+7e2b1760-d5cc-4cf5-bf17-e3d49401f7c1;16/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;26,00 
+f5685df9-dc70-404b-841d-e47d6c4f021b;17/02/2023;Pix recebido;Edson Luiz Bertucchi;50,00 
+e575c5ea-222d-4740-8d71-587e9a1b298b;17/02/2023;Pix enviado;Cristina A Garcia Sato;-109,00 
+2560e63f-1eb0-48a7-a112-d257cfa24c2a;18/02/2023;Pix enviado;Cintia Yurie Yamada;-50,00 
+69b6f675-cd65-4954-acb4-3f5d4b501ae0;18/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,46 
+0d356d17-8e7b-4a08-9819-2b16e0a31f9d;19/02/2023;Pix recebido;Monica Stadela Silva Ascencio;200,00 
+5559e69f-8597-4c60-b4d0-696e80772587;19/02/2023;Pix enviado;Caio Deluca Santos Pinheiro;-69,00 
+d5c2d2d9-0828-4886-87bb-a3f7cea5991b;19/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,70 
+0625e481-6a74-4f6e-aa7e-eb6985c8b7ab;20/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;20,01 
+aaa1752f-7cde-4102-b98f-5bf73a711dbd;22/02/2023;Recarga de celular;Vivo - (18) *****-1416;-35,00 
+98ae73fa-f512-4207-b8b8-fee27865a04b;22/02/2023;Pix enviado;Cintia Yurie Yamada;-360,00 
+d33ad80f-071a-4dc6-bc82-b851171359dc;22/02/2023;Pix recebido;Vitor Hugo Souza Santana;50,00 
+22399242-75d5-48a2-a380-b74cb3420c5f;22/02/2023;Pix recebido;João David Ferreira Leite;300,00 
+ccaff57a-2569-465e-a807-ea3a9df16d4d;23/02/2023;Pix recebido;Eduardo Petroline;175,00 
+2191dc76-bf17-4ba7-9a6b-411d32807b88;23/02/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;20,68 
+08dbc4d5-36ca-490e-988c-6ce10e0366ea;24/02/2023;Pix recebido;Thiago Granja Belieiro;54,00 
+76abae30-610d-412d-a67b-395708b88242;24/02/2023;Pix recebido;Edson Luiz Bertucchi;185,00 
+f4c4018a-bf87-4dda-bdd3-3b2bc615bf01;24/02/2023;Pix enviado;J. Car Estacionamento S/s Ltda;-60,00 
+7ffaae80-f9b5-4d82-83ba-41553229bc1d;25/02/2023;Pix recebido;Fernanda Harumi Funada;475,00 
+1a8c887f-5b3c-45b6-a382-31ec80522267;27/02/2023;Pix enviado;Cintia Yurie Yamada;-2450,00 
+e4af7ba8-130c-41d2-a282-34c654cb943c;28/02/2023;Pix recebido;Adávio Freire Sangirolamo;250,00 
+12d62024-e56e-4468-838e-21190641ceec;01/03/2023;Pix recebido;Tathiana Takara;280,00 
+1e3108d1-6419-487d-a1ad-05eb90b8611d;01/03/2023;Pix recebido;Jose Setsuo Sumida;170,00 
+b4dde6cc-9267-4833-8367-7ee26fb8aae3;01/03/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,60 
+92f6ccce-2e0e-4fa7-935c-8e7bae6431e5;02/03/2023;Pix enviado;Shpp B I P Pag Ltda;-141,28 
+35adae27-54fb-4f02-852c-0236cb836d93;02/03/2023;Pagamento de conta;Minassal Ltda;-406,30 
+6e2f84f6-728d-4707-a7f2-68eb93782b01;05/03/2023;Pix recebido;Adavio Freire Sangirolamo;30,00 
+6de6d392-83a1-4ac7-a3e4-a0f5751fddc4;07/03/2023;Pix recebido;David Ribeiro Farina;175,00 
+027f1bbf-3f87-44e8-9c7f-f42364604ba9;10/03/2023;Pagamento de conta;Unimed P Prud Coop Trab Medico;-614,85 
+37ec42c6-80a1-408b-89e3-7bbf135a5f82;11/03/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;9,49 
+9c592dec-1189-4ec5-84c3-0c097924fa0b;13/03/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;11,58 
+7e63320a-e728-4f35-aaaf-c74144585373;13/03/2023;Pix recebido;Vitor Hugo Souza Santana;30,00 
+49067be3-9976-481a-b1e6-d46897b5e7d1;14/03/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,74 
+cf2d3439-1634-4e54-85eb-d1475045c5fe;15/03/2023;Pix recebido;João David Ferreira Leite;120,00 
+d3cda6ea-c354-459c-afdf-c9d12322bf31;16/03/2023;Pix recebido;Thiago Granja Belieiro;54,00 
+d451cc87-2251-4a7c-8f39-376b33253c73;16/03/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;20,05 
+00d5a7f0-f732-462f-bbd2-48e34d467708;18/03/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,08 
+8b4b24cb-82ca-4816-b07a-96d2d903fc55;19/03/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,48 
+23def4ee-20fc-4e42-abb0-f8a79a7c15d3;20/03/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;18,81 
+4357589d-48a5-408c-907a-69ebe46ca89c;22/03/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,51 
+bc63fbd0-ae5d-4930-995e-46abdc58f4f3;23/03/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,94 
+dff20e48-0b3a-4533-8e58-6f5840e24c33;28/03/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,95 
+e27bb067-c421-4ec9-8ff0-81878990e500;29/03/2023;Pix recebido;Rogerio Y Onishi Agronomia Epp;360,00 
+4c93bf39-447b-40f9-a29c-ef60094d3806;30/03/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,36 
+a44a4a69-2b8d-4d67-a78e-f47778f4ee67;01/04/2023;Pix recebido;Satiko Hatsuka Kawaguchi;130,00 
+2f1929ed-34bd-4b23-a506-74509e62d78c;01/04/2023;Pix recebido;Jose Setsuo Sumida;359,00 
+0ecdd7fe-acf0-4237-b36f-af8b464c879e;03/04/2023;Pix recebido;João David Ferreira Leite;30,00 
+eaaa8dd9-440f-46c0-ae14-38d2bcae9d7e;03/04/2023;Pix recebido;Thiago Granja Belieiro;54,00 
+a7b05874-b93a-4e56-b48c-611e0176bbe5;04/04/2023;Pagamento de conta;Hercosul Alimentos Ltda                           ;-349,40 
+f8e54cf3-71a3-4c9e-b91b-cd3e88b3e2ce;06/04/2023;Pix recebido;Caio Bentes Chaves E Silva              ;245,00 
+46329c19-ad63-4daf-a8a7-c72505eb01f5;06/04/2023;Pix recebido;Pedro Henrique Andrade Rodella;175,00 
+be03abdb-6ef4-4c67-a0c0-92ec019432d9;06/04/2023;Pix recebido;Mercia Regina G Santos;199,00 
+5801f33e-eb4b-455f-832e-907a9b8ad1ad;09/04/2023;Pix recebido;João David Ferreira Leite;60,00 
+69ca8fa9-3d4b-4af4-9e08-8bc3729c136d;10/04/2023;Pix recebido;Cristina Sakuraba Oumura;200,00 
+dcb5d20b-1d64-49b9-af8a-cd70fa23c35f;10/04/2023;Pagamento de conta;Unimed P Prud Coop Trab Medico;-630,15 
+e7a6ba44-01a8-48e1-96f4-613be744467b;10/04/2023;Renda Fixa;Resgate de CDB;1700,32 
+aed81a33-e1f7-43d3-8bbb-1bd75f3c4cc2;11/04/2023;Pix recebido;Edson Luiz Bertucchi;189,00 
+f4775710-f7af-470c-bf19-297d309e4954;11/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;10,09 
+752ecd8f-da86-495e-8f95-e8ce86789138;13/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;12,73 
+a9213442-ef40-48da-b780-815b234dc206;14/04/2023;Renda Fixa;Resgate de CDB;566,69 
+f5d6a6f7-89eb-4299-bf12-29f6c1177375;14/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,94 
+6f5b981f-84fd-4d74-9d62-0b07c060200e;15/04/2023;Pagamento de conta;Vivo -  Telefônica Brasil;-129,99 
+9c0c185d-5f25-449d-b2c1-24113e2c325f;15/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,99 
+446cf44d-0640-4fa9-8e83-d9170a36816c;16/04/2023;Pix recebido;Tathiana Takara;100,00 
+3d2195ff-6ccb-41f4-b7da-8f60427264f1;16/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;21,94 
+7ff7624d-5a69-4aa5-946a-4af38d0387ef;17/04/2023;Pix recebido;Fernanda Harumi Funada;175,00 
+c60f7851-897d-42eb-8e2f-f14df610e3ca;17/04/2023;Pagamento de conta;Kraft Transportes Ltda;-195,37 
+b222d414-d7db-43f4-9605-47cd49546752;17/04/2023;Pagamento de conta;Hercosul Alimentos Ltda                           ;-317,57 
+85ecf50f-0f93-4934-b443-01a430884a70;18/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,46 
+3d19b41b-c0e8-4b6c-9113-e7ad1ff478c3;19/04/2023;Pix enviado;Cintia Yurie Yamada;-87,55 
+f4dac46d-b4c1-4ab0-bf8a-513d2382c8e9;19/04/2023;Pix recebido;Eduardo Petroline;189,00 
+2f72d609-d8e3-44ea-8d7e-91b5afbf861d;19/04/2023;Pagamento de conta;Minassal Ltda;-277,64 
+5cf78221-fd59-4f5a-ab24-6d08aaee6f7e;19/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,70 
+b2375513-d58a-4182-b886-551726e5eef7;20/04/2023;Pix recebido;Marli Oki;75,00 
+af89b3da-da15-4d4f-9f2a-1b8b19339185;20/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;20,24 
+8cddfd6e-a400-4ccc-b4e1-80cb5f1a9d37;21/04/2023;Pix recebido;Thiago Granja Belieiro;54,00 
+fb4343b0-7aad-4c2d-bbbf-1fe995016943;22/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,55 
+9d112819-ee52-4a2e-930b-e7663351422c;23/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,44 
+22f1220b-2686-4e1a-8b04-1ab39558b70b;24/04/2023;Pagamento de conta;Hercosul Alimentos Ltda                           ;-317,57 
+a1cfd898-0ff1-4181-9930-3028fb9119a0;25/04/2023;Pix enviado;Shpp B I P Pag Ltda;-66,07 
+6a775d8b-6ff7-4020-9cef-2f58e8c66f3a;26/04/2023;Pix enviado;Cintia Yurie Yamada;-186,16 
+f6931c60-022b-47b7-bcd7-6ee0025b1e38;26/04/2023;Pagamento de conta;Minassal Ltda;-277,64 
+9ff110da-edae-4a83-9735-3244dccd2f86;28/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,09 
+133625a0-dd12-4a8e-be18-805a98fdc5ae;29/04/2023;Pix enviado;Raia Drogasil;-99,98 
+cd8e6ad7-7c83-4fc5-a7c6-8437e6616e7d;29/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,98 
+36e15ab2-0bfe-4611-9631-db8a4e724f85;30/04/2023;Pix recebido;Cristina Sakuraba Oumura;100,00 
+d0860820-8848-42ae-bdd9-a0c8ad05ce9a;30/04/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,45 
+9d631532-4c86-4cf4-b3c1-74846e897102;01/05/2023;Pagamento de conta;Frismar Comercio De Produtos Alimenticios Ltd;-1168,98 
+260f3621-bf5d-4122-bea1-c693ccaaa382;01/05/2023;Pix recebido;Marcos Rinaldo Beppu;50,00 
+6d063142-f23c-43e4-a036-13049c2d4179;02/05/2023;Pix enviado;Ana Paula Ambrosio De Almeida 27893211830;-30,00 
+1054c9ac-d447-48f9-9635-2e3756784ff7;02/05/2023;Pix enviado;Cintia Yurie Yamada;-4,56 
+f5bce93c-3650-4fc1-98d6-019da1439acd;02/05/2023;Pix enviado;Cintia Yurie Yamada;-105,20 
+2a6fcf20-cda9-4b28-b385-f9d58d22f5b9;02/05/2023;Pix recebido;Darlene Sassi;360,00 
+2429fdcf-c632-4a36-8fd1-b57eeb5259f1;02/05/2023;Pix enviado;Shpp B I P Pag Ltda;-118,66 
+1a889e03-777f-4e3c-919b-18dcb8004bbe;02/05/2023;Pagamento de conta;Hercosul Alimentos Ltda                           ;-317,57 
+cdbe3673-65c2-414c-b9aa-70fe6bbc85f1;03/05/2023;Pagamento de conta;Minassal Ltda;-277,63 
+7c6bba90-4e91-4a00-9c84-72d79d2fc553;03/05/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,85 
+fcb4be15-840c-4a78-bc85-78a745b4a11a;05/05/2023;Pix enviado;Shpp B I P Pag Ltda;-82,22 
+0d079a5b-b0da-4f41-bcea-5634f359c5b2;05/05/2023;Pix recebido;Raia Drogasil;48,90 
+f6319482-dec9-456f-bf51-9faf89d0e3e7;05/05/2023;Pix enviado;Raia Drogasil;-48,90 
+b34a9e06-ad32-4e42-a7b2-7fac2e21f317;06/05/2023;Pix recebido;Thiago Granja Belieiro;54,00 
+c53a94ed-58ac-4914-b9ac-138fcd5a6d1f;06/05/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,14 
+f27fb089-2c6f-4ed7-9b5e-f14da622c5c7;10/05/2023;Pix recebido;Joao Carlos Chaves;780,00 
+5b9f644f-ab73-4638-a5a2-10b6e9305ab1;10/05/2023;Pagamento de conta;Unimed P Prud Coop Trab Medico;-620,55 
+021917f4-911a-4807-90d5-3f2a81116818;10/05/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;11,04 
+bc1fc05d-4ead-4c95-b738-789001db2e14;11/05/2023;Pix recebido;Magda Mitiko Kawaguchi Yamada;1000,00 
+440a118d-c71d-4427-9521-02191ab3167d;11/05/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;11,74 
+245f3121-d145-4265-ab9f-f9ba601077de;13/05/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;12,84 
+31785ed7-3599-4666-8b42-145852123dee;14/05/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;7,67 
+7ec0d092-cf2d-41e5-b600-da267a6e8bb7;15/05/2023;Pix recebido;Edson Luiz Bertucchi;189,00 
+ae56eb16-b13b-40eb-8cb5-f0836c591a5a;15/05/2023;Pagamento de conta;Hercosul Alimentos Ltda                           ;-317,59 
+7ed828ae-bb05-4b1e-9682-17ccb0d72b33;15/05/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,99 
+8e6825bc-ef93-47f0-a3d5-802ec8af3bb2;15/05/2023;Pix recebido;Marcos Rinaldo Beppu;100,00 
+8abb800e-ac1b-45d4-bf83-649083d7beb7;16/05/2023;Renda Fixa;Aplicação em CDB;-6000,00 
+d72916df-56c7-49c3-8c01-432209d1e32f;16/05/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;19,07 
+7bd0cf30-8407-48c9-8131-75daa5efb863;18/05/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,52 
+270697cf-9029-4f89-aa9b-9e0b53d5004d;19/05/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,27 
+f8d50e11-cc5e-435c-8f7b-913ecef87399;20/05/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;17,90 
+81ae1773-9022-4a9d-80fa-9a56cd3a9dab;23/05/2023;Pix recebido;Marli Oki;225,00 
+fc5c47d6-2d69-42ef-b321-4412333ac161;24/05/2023;Pix recebido;Thiago Granja Belieiro;54,00 
+c9e5f70e-8ddb-49fa-93b3-a44e5e9233db;01/06/2023;Pix recebido;Satiko Hatsuka Kawaguchi;144,00 
+ee259c32-c2fb-4d7a-8692-d4cd702b6269;04/06/2023;Pix recebido;Tathiana Takara;75,00 
+5ed24be0-0e7e-4009-9bb2-5d72f8138c80;04/06/2023;Pix recebido;João David Ferreira Leite;120,00 
+e9bc532a-68a8-4f88-8abd-34c0a74a6510;05/06/2023;Recarga de celular;Vivo - (18) *****-4912;-35,00 
+452b6e82-9625-4132-ab7c-69a08cfaee69;06/06/2023;Pix recebido;Pedro Henrique Andrade Rodella;175,00 
+a6d3228a-12ee-4036-ad76-8770a9bd1820;06/06/2023;Pagamento de conta;Hercosul Alimentos Ltda                           ;-186,83 
+138e2e24-9535-4ac3-9a82-fc23dba2ba33;06/06/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,14 
+d3c5f57e-317a-4c57-ae42-298cc1a87a46;08/06/2023;Pagamento de conta;Unimed P Prud Coop Trab Medico;-584,25 
+506d2416-340b-41ab-8dc4-ad1678520afd;08/06/2023;Pix recebido;Fernanda Harumi Funada;690,00 
+a75deea1-d7f5-43a7-afa2-c74c88b97334;08/06/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,49 
+71c59f9e-2878-4759-817a-b43d5830182e;10/06/2023;Pix recebido;Jose Setsuo Sumida;359,00 
+ba154a4c-6c89-463b-9d3c-07b921faecfc;10/06/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;12,46 
+df92ca19-11b5-4fc7-b09f-aa433dcf54c5;11/06/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;11,00 
+fe1c841e-142b-4b7b-9eea-525a75aa4c8f;18/06/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,57 
+a57e2433-4ba1-4d88-a5ce-4b57fa169b70;19/06/2023;Pix enviado;Cintia Yurie Yamada;-107,06 
+e383200a-65f5-4965-9ff8-cbe661bb755b;19/06/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;2,29 
+7c5be627-ff7a-4e79-86e1-10ce1c92aab6;20/06/2023;Pix recebido;Edson Luiz Bertucchi;195,00 
+d979b34d-aaa8-4b9f-b7b7-6c048eefc26e;20/06/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;17,90 
+b40aee20-e848-42e0-8081-97637609e26d;22/06/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,15 
+2ebf8229-b0f3-43b0-b750-f9d37c24c725;23/06/2023;Pagamento de conta;Hercosul Alimentos Ltda                           ;-641,06 
+e350362b-e389-443b-b84e-ca3fa12e6626;23/06/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,87 
+55a73973-5f9d-412a-a68e-55f5d67a800a;24/06/2023;Pix enviado;Cintia Yurie Yamada;-500,00 
+78d1479c-0b1d-4943-aa56-137493cdd78a;24/06/2023;Pix recebido;Elisa Maria Souto Mayor De Morais;750,00 
+65757385-130a-43d5-8456-bbcb0d73e66d;24/06/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,44 
+5c0a91a2-74d4-4dc6-8e50-afa9dd6958f0;27/06/2023;Pix recebido;Satiko Hatsuka Kawaguchi;40,00 
+cd5c387f-24bc-4206-98ee-299efa26a1e6;01/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,19 
+141410b9-7e77-4481-97af-7d511fe7a3ac;05/07/2023;Pagamento de conta;Minassal Ltda;-412,40 
+77ea2997-d20a-42c4-ba5b-ffc9af5f2b16;05/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,33 
+c7722f95-94eb-4fe7-900d-73b7e9537786;06/07/2023;Pix recebido;Vania Regina Amaral Bianchini;175,00 
+ddd4af5b-08f9-43df-a893-b6b15a154bbe;06/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;5,08 
+93a05a90-81e3-48a4-b1d3-0bcaed7e6a4e;08/07/2023;Pix recebido;Marcos Rinaldo Beppu;400,00 
+1dc0872c-1051-4076-b87e-defeb05cdfd7;08/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,49 
+0957d098-e445-4439-b5e6-126d2181e395;09/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,88 
+347a674b-2af8-456d-9ba3-f0dc357a912b;10/07/2023;Pix recebido;Maria Laysi Cyrino Guilmar Da Silva;225,00 
+55682b98-c327-4b33-a1ef-0425e9c3a783;10/07/2023;Pagamento de conta;Unimed P Prud Coop Trab Medico;-630,15 
+0c4f2d4f-e078-4227-89e1-b8158b290cbd;10/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;12,46 
+2be5154f-3635-4bc7-914b-58d5905799ce;11/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;11,00 
+fa4a6a6d-e7f4-4212-ad7a-5d2e5d4fcc9d;12/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,17 
+29830bfa-b9f2-44ab-9f1c-33fe187f4ed1;15/07/2023;Pix recebido;João David Ferreira Leite;210,00 
+eb5ac350-f874-4b5a-98e9-5dc9a3ff494a;17/07/2023;Pix recebido;Tathiana Takara;70,00 
+e5567f4e-2817-4b33-95e1-3cf412f18d58;17/07/2023;Pix recebido;Adriana Maria Pelegrini;275,00 
+d0178550-340d-4bf7-b055-1f8244560c18;18/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,57 
+5f4c170d-6872-4741-8fa0-3baaf3cba005;19/07/2023;Transferência Recebida;Cintia Yurie Yamada;404,68 
+197f3bc7-bd67-474e-9068-7557c4d02b37;19/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,48 
+4b533f53-50eb-4787-b108-67b2dcf81b6a;20/07/2023;Pagamento de conta;Hercosul Alimentos Ltda                           ;-1221,65 
+1948da98-d486-466f-a253-a6d751530cbf;20/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;16,38 
+02aa3912-530d-41ee-8b3d-cb483d725e8b;24/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,44 
+eeb7c489-dc3e-41c2-bc71-b8d74d9b608a;25/07/2023;Pix recebido;Caio Bentes Chaves E Silva              ;185,00 
+6aa760ac-01c4-476e-b4e8-279b40293c9c;26/07/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,53 
+bd9b8c20-f731-4800-ae7a-07781569788c;30/07/2023;Pix recebido;Renato Kenji Akamine;60,00 
+dc290e4c-54bf-44f8-b0ca-84e35163561f;30/07/2023;Pix recebido;Cristina Sakuraba Oumura;75,00 
+a985e0bc-ebb4-4e59-b902-29262c14e7e2;02/08/2023;Pix recebido;Jose Setsuo Sumida;359,00 
+86a8bcbf-a993-4b12-b3d8-50011e25d757;04/08/2023;Pix enviado;Cintia Yurie Yamada;-0,20 
+9c2c955b-fbe8-4cb8-80c8-fdc601a4c8ed;04/08/2023;Pix enviado;Cintia Yurie Yamada;-186,62 
+0925a897-654f-4be1-9516-fa2a97f64cd9;04/08/2023;Pix recebido;Gabriel Guilmar Rocha;100,00 
+d54cb79a-664a-4039-aa5d-d4ba6d5370db;06/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,36 
+6a1486e9-05b2-4c96-bdd7-2d4f25df16a8;07/08/2023;Pix recebido;Mercia Regina G Santos;59,00 
+f8be7e27-e6c9-47f5-a9e4-495422faaf02;08/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,47 
+2093826b-c17a-460d-abcc-6d2e362575ba;09/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,84 
+60277535-cb44-4291-9bb9-8ce8fd592376;10/08/2023;Pagamento de conta;Unimed P Prud Coop Trab Medico;-584,25 
+ca8dff6d-7338-45fe-8843-ab1d236ecf90;10/08/2023;Pix recebido;Satiko Hatsuka Kawaguchi;40,00 
+a00ea09f-a4b9-41b6-83b4-40d41db98b67;10/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;12,11 
+a2dc6f27-8091-4f59-9b6d-b23a8184232b;11/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;10,70 
+ff5ad361-2a27-4a6f-a44f-2eed022bda32;12/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;3,09 
+cb6a8a1d-0bd1-4f46-a9d7-6b9345aea852;13/08/2023;Pix recebido;João David Ferreira Leite;80,00 
+e3d1829c-8bde-4d55-b4b2-43ea135dddc8;13/08/2023;Pix recebido;Andre Hachisuka Sassaki;100,00 
+f0b6f153-c844-4bea-9e55-81f3f4001d16;14/08/2023;Pix recebido;Bruna Munhoz Bonini;400,00 
+60b1c073-cdde-4e26-a50b-9add0a01dbfd;16/08/2023;Pix recebido;Victoria Oliveira Bonini;25,00 
+4aee185b-5274-4591-8937-b184fc3db4a2;17/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,45 
+295bd0dd-7cec-42bb-8940-a7a5385631a6;18/08/2023;Pix recebido;Gabriel Guilmar Rocha;50,00 
+32586cd7-eb31-4bd8-aac2-54e9904246e1;18/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,39 
+9a902303-1343-4479-899f-e311101afe1d;19/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;4,68 
+699e6790-3c2f-44a1-bebc-2edede44af74;20/08/2023;Pix recebido;Cristina Sakuraba Oumura;75,00 
+e89d3766-fb3b-4551-b5d2-74c47bc1818d;20/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;6,15 
+4ed86614-0d4b-4882-89bd-219f11b54e7e;22/08/2023;Pix recebido;Yoshie Okamoto S Ferreira;250,00 
+566d1b6b-ecce-4485-b98f-bb884a76abb0;23/08/2023;Pagamento de conta;Frismar Comercio De Produtos Alimenticios Ltd;-542,98 
+e2c7cab1-769a-489d-8844-84b9ef2746c0;24/08/2023;Pagamento de conta;Hercosul Alimentos Ltda;-1403,39 
+6c0d532f-f2ed-4156-9315-5ae3ab8caa58;24/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;0,43 
+1ff7a02d-0841-42cd-9e99-2adedd08443e;25/08/2023;Pix recebido;Aurea Mitiko Shimofusa;350,00 
+e00dbb25-4518-474c-95d0-ed909b3e83b0;25/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,48 
+7689f440-8c33-45a7-b233-835c78271093;26/08/2023;Pix enviado;Cristina A Garcia Sato;-70,00 
+01e37ac9-9a4d-4b92-a0bf-9105832b74a2;26/08/2023;QR Code Pix enviado;Shpp B I P Pag Ltda;-164,45 
+a7d2ca02-6e14-462f-bb28-3f876e26c59e;26/08/2023;Rendimento da conta;Rendimento líquido sobre dinheiro em conta;1,49 
+8412421e-eb6c-4ce4-8d50-298b9705fbcf;28/08/2023;Pix recebido;Gabriel Guilmar Rocha;50,00 
+24938b36-c07c-4124-bb7e-861db50fbec2;29/08/2023;Pix recebido;Mario Yukio Sakuraba;650,00 
+fdb3ec33-f5cb-4193-8f9d-6c0dffdc52c0;29/08/2023;QR Code Pix enviado;Shpp B I P Pag Ltda;-117,84 
